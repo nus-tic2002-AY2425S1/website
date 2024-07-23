@@ -1,0 +1,839 @@
+2024-07-22T16:05:02.831Z - info: Website generation (lazy) started at 12:04:55 am
+2024-07-22T16:05:15.695Z - warn: ENOENT: no such file or directory, open 'C:\repos\nus-cs2103\cs2103-website-base\cache\gh-pages\https!github.com!nus-cs2103-AY2425S1!website.git\book\_markbind\variables.md'
+2024-07-22T16:05:15.698Z - warn: ENOENT: no such file or directory, open 'C:\repos\nus-cs2103\cs2103-website-base\cache\gh-pages\https!github.com!nus-cs2103-AY2425S1!website.git\_markbind\variables.md'
+2024-07-22T16:05:15.847Z - info: Building assets...
+2024-07-22T16:06:20.171Z - info: Assets built
+2024-07-22T16:06:20.173Z - info: Generating landing page...
+2024-07-22T16:06:21.184Z - info: Landing page built, other pages will be built as you navigate to them!
+2024-07-22T16:06:22.614Z - info: Site data built
+2024-07-22T16:06:22.615Z - info: Website generation (lazy) complete! Total build time: 87.394s
+2024-07-22T16:06:23.109Z - info: Serving "C:\repos\nus-cs2103\cs2103-website-base\_site" at http://127.0.0.1:8080
+2024-07-22T16:06:23.110Z - info: Press CTRL+C to stop ...
+2024-07-22T16:09:21.137Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\programmingLanguages as some of its dependencies were changed since the last visit
+2024-07-22T16:09:21.451Z - info: Site data built
+2024-07-22T16:09:21.452Z - info: Lazy website regeneration complete! Total build time: 0.316s
+2024-07-22T16:12:40.661Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\se-book-adapted\index as some of its dependencies were changed since the last visit
+2024-07-22T16:12:40.929Z - info: Site data built
+2024-07-22T16:12:40.930Z - info: Lazy website regeneration complete! Total build time: 0.269s
+2024-07-22T16:12:46.159Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\se-book-adapted\chapters\cppToJava as some of its dependencies were changed since the last visit
+2024-07-22T16:12:50.089Z - info: Site data built
+2024-07-22T16:12:50.090Z - info: Lazy website regeneration complete! Total build time: 3.932s
+2024-07-22T16:31:01.052Z - info: [12:31:01 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\cppToJava\gettingStarted\running\q-runHelloWorld.md
+2024-07-22T16:31:01.053Z - info: Synchronizing opened pages list before reload
+2024-07-22T16:31:01.053Z - info: Current opened pages, from most-to-least recent:
+2024-07-22T16:31:01.053Z - info: 1. se-book-adapted/chapters/cppToJava
+2024-07-22T16:31:02.070Z - info: Rebuilding 1 pages
+2024-07-22T16:31:04.922Z - info: Site data built
+2024-07-22T16:31:04.922Z - info: Pages rebuilt
+2024-07-22T16:31:04.922Z - info: Website regeneration complete! Total build time: 2.854s
+2024-07-22T16:33:35.808Z - info: [12:33:35 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\cppToJava\gettingStarted\running\q-runHelloWorld.md
+2024-07-22T16:33:35.809Z - info: Synchronizing opened pages list before reload
+2024-07-22T16:33:35.810Z - info: Current opened pages, from most-to-least recent:
+2024-07-22T16:33:35.810Z - info: 1. se-book-adapted/chapters/cppToJava
+2024-07-22T16:33:36.825Z - info: Rebuilding 1 pages
+2024-07-22T16:33:39.660Z - info: Site data built
+2024-07-22T16:33:39.661Z - info: Pages rebuilt
+2024-07-22T16:33:39.661Z - info: Website regeneration complete! Total build time: 2.836s
+2024-07-22T16:34:04.804Z - info: [12:34:04 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\cppToJava\gettingStarted\running\q-runHelloWorld.md
+2024-07-22T16:34:04.805Z - info: Synchronizing opened pages list before reload
+2024-07-22T16:34:04.805Z - info: Current opened pages, from most-to-least recent:
+2024-07-22T16:34:04.805Z - info: 1. se-book-adapted/chapters/cppToJava
+2024-07-22T16:34:05.821Z - info: Rebuilding 1 pages
+2024-07-22T16:34:08.639Z - info: Site data built
+2024-07-22T16:34:08.639Z - info: Pages rebuilt
+2024-07-22T16:34:08.640Z - info: Website regeneration complete! Total build time: 2.82s
+2024-07-22T16:34:13.279Z - info: [12:34:13 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\cppToJava\gettingStarted\running\q-runHelloWorld.md
+2024-07-22T16:34:13.279Z - info: Synchronizing opened pages list before reload
+2024-07-22T16:34:13.279Z - info: Current opened pages, from most-to-least recent:
+2024-07-22T16:34:13.279Z - info: 1. se-book-adapted/chapters/cppToJava
+2024-07-22T16:34:14.284Z - info: Rebuilding 1 pages
+2024-07-22T16:34:16.797Z - info: Site data built
+2024-07-22T16:34:16.797Z - info: Pages rebuilt
+2024-07-22T16:34:16.797Z - info: Website regeneration complete! Total build time: 2.514s
+2024-07-22T16:35:33.241Z - info: [12:35:33 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\cppToJava\gettingStarted\running\q-runHelloWorld.md
+2024-07-22T16:35:33.242Z - info: Synchronizing opened pages list before reload
+2024-07-22T16:35:33.242Z - info: Current opened pages, from most-to-least recent:
+2024-07-22T16:35:33.243Z - info: 1. se-book-adapted/chapters/cppToJava
+2024-07-22T16:35:34.259Z - info: Rebuilding 1 pages
+2024-07-22T16:35:37.122Z - info: Site data built
+2024-07-22T16:35:37.122Z - info: Pages rebuilt
+2024-07-22T16:35:37.122Z - info: Website regeneration complete! Total build time: 2.864s
+2024-07-22T16:35:44.548Z - info: [12:35:44 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\cppToJava\gettingStarted\running\q-runHelloWorld.md
+2024-07-22T16:35:44.548Z - info: Synchronizing opened pages list before reload
+2024-07-22T16:35:44.549Z - info: Current opened pages, from most-to-least recent:
+2024-07-22T16:35:44.549Z - info: 1. se-book-adapted/chapters/cppToJava
+2024-07-22T16:35:45.564Z - info: Rebuilding 1 pages
+2024-07-22T16:35:48.040Z - info: Site data built
+2024-07-22T16:35:48.040Z - info: Pages rebuilt
+2024-07-22T16:35:48.040Z - info: Website regeneration complete! Total build time: 2.478s
+2024-07-22T16:36:29.308Z - info: [12:36:29 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\cppToJava\gettingStarted\running\q-runHelloWorld.md
+2024-07-22T16:36:29.309Z - info: Synchronizing opened pages list before reload
+2024-07-22T16:36:29.309Z - info: Current opened pages, from most-to-least recent:
+2024-07-22T16:36:29.309Z - info: 1. se-book-adapted/chapters/cppToJava
+2024-07-22T16:36:30.314Z - info: Rebuilding 1 pages
+2024-07-22T16:36:33.024Z - info: Site data built
+2024-07-22T16:36:33.025Z - info: Pages rebuilt
+2024-07-22T16:36:33.025Z - info: Website regeneration complete! Total build time: 2.712s
+2024-07-22T16:36:37.401Z - info: [12:36:37 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\cppToJava\gettingStarted\running\q-runHelloWorld.md
+2024-07-22T16:36:37.402Z - info: Synchronizing opened pages list before reload
+2024-07-22T16:36:37.402Z - info: Current opened pages, from most-to-least recent:
+2024-07-22T16:36:37.403Z - info: 1. se-book-adapted/chapters/cppToJava
+2024-07-22T16:36:38.420Z - info: Rebuilding 1 pages
+2024-07-22T16:36:41.152Z - info: Site data built
+2024-07-22T16:36:41.152Z - info: Pages rebuilt
+2024-07-22T16:36:41.152Z - info: Website regeneration complete! Total build time: 2.733s
+2024-07-22T16:37:46.149Z - info: [12:37:46 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\cppToJava\gettingStarted\running\q-runHelloWorld.md
+2024-07-22T16:37:46.150Z - info: Synchronizing opened pages list before reload
+2024-07-22T16:37:46.150Z - info: Current opened pages, from most-to-least recent:
+2024-07-22T16:37:46.150Z - info: 1. se-book-adapted/chapters/cppToJava
+2024-07-22T16:37:47.166Z - info: Rebuilding 1 pages
+2024-07-22T16:37:50.108Z - info: Site data built
+2024-07-22T16:37:50.108Z - info: Pages rebuilt
+2024-07-22T16:37:50.108Z - info: Website regeneration complete! Total build time: 2.943s
+2024-07-22T16:38:02.055Z - info: [12:38:02 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\cppToJava\gettingStarted\running\q-runHelloWorld.md
+2024-07-22T16:38:02.055Z - info: Synchronizing opened pages list before reload
+2024-07-22T16:38:02.055Z - info: Current opened pages, from most-to-least recent:
+2024-07-22T16:38:02.056Z - info: 1. se-book-adapted/chapters/cppToJava
+2024-07-22T16:38:03.066Z - info: Rebuilding 1 pages
+2024-07-22T16:38:05.537Z - info: Site data built
+2024-07-22T16:38:05.537Z - info: Pages rebuilt
+2024-07-22T16:38:05.537Z - info: Website regeneration complete! Total build time: 2.472s
+2024-07-22T16:38:32.892Z - info: [12:38:32 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\cppToJava\gettingStarted\running\q-runHelloWorld.md
+2024-07-22T16:38:32.893Z - info: Synchronizing opened pages list before reload
+2024-07-22T16:38:32.893Z - info: Current opened pages, from most-to-least recent:
+2024-07-22T16:38:32.893Z - info: 1. se-book-adapted/chapters/cppToJava
+2024-07-22T16:38:33.910Z - info: Rebuilding 1 pages
+2024-07-22T16:38:36.675Z - info: Site data built
+2024-07-22T16:38:36.675Z - info: Pages rebuilt
+2024-07-22T16:38:36.676Z - info: Website regeneration complete! Total build time: 2.767s
+2024-07-22T16:39:50.037Z - info: [12:39:50 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\cppToJava\gettingStarted\running\q-runHelloWorld.md
+2024-07-22T16:39:50.037Z - info: Synchronizing opened pages list before reload
+2024-07-22T16:39:50.038Z - info: Current opened pages, from most-to-least recent:
+2024-07-22T16:39:50.038Z - info: 1. se-book-adapted/chapters/cppToJava
+2024-07-22T16:39:51.052Z - info: Rebuilding 1 pages
+2024-07-22T16:39:53.716Z - info: Site data built
+2024-07-22T16:39:53.717Z - info: Pages rebuilt
+2024-07-22T16:39:53.717Z - info: Website regeneration complete! Total build time: 2.667s
+2024-07-22T16:50:34.500Z - info: [12:50:34 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\cppToJava\gettingStarted\running\q-runHelloWorld.md
+2024-07-22T16:50:34.502Z - info: Synchronizing opened pages list before reload
+2024-07-22T16:50:34.502Z - info: Current opened pages, from most-to-least recent:
+2024-07-22T16:50:34.502Z - info: 1. se-book-adapted/chapters/cppToJava
+2024-07-22T16:50:35.513Z - info: Rebuilding 1 pages
+2024-07-22T16:50:38.760Z - info: Site data built
+2024-07-22T16:50:38.761Z - info: Pages rebuilt
+2024-07-22T16:50:38.761Z - info: Website regeneration complete! Total build time: 3.249s
+2024-07-22T16:51:36.700Z - info: [12:51:36 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\common-commentary-fragment.md
+2024-07-22T16:51:36.700Z - info: Synchronizing opened pages list before reload
+2024-07-22T16:51:36.701Z - info: Current opened pages, from most-to-least recent:
+2024-07-22T16:51:36.701Z - info: 1. se-book-adapted/chapters/cppToJava
+2024-07-22T16:51:37.708Z - info: Assets built
+2024-07-22T16:52:18.785Z - info: [12:52:18 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\common-commentary-fragment.md
+2024-07-22T16:52:18.785Z - info: Synchronizing opened pages list before reload
+2024-07-22T16:52:18.785Z - info: Current opened pages, from most-to-least recent:
+2024-07-22T16:52:18.786Z - info: 1. se-book-adapted/chapters/cppToJava
+2024-07-22T16:52:19.804Z - info: Assets built
+2024-07-22T16:54:00.664Z - info: [12:54:00 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\tp-ped-fragment.md
+2024-07-22T16:54:00.664Z - info: Synchronizing opened pages list before reload
+2024-07-22T16:54:00.664Z - info: Current opened pages, from most-to-least recent:
+2024-07-22T16:54:00.664Z - info: 1. se-book-adapted/chapters/cppToJava
+2024-07-22T16:54:00.688Z - info: [12:54:00 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\ip-tasks-fragment.md
+2024-07-22T16:54:00.688Z - info: Synchronizing opened pages list before reload
+2024-07-22T16:54:00.689Z - info: Current opened pages, from most-to-least recent:
+2024-07-22T16:54:00.689Z - info: 1. se-book-adapted/chapters/cppToJava
+2024-07-22T16:54:00.727Z - info: [12:54:00 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\tp-tasks-fragment.md
+2024-07-22T16:54:00.727Z - info: Synchronizing opened pages list before reload
+2024-07-22T16:54:00.727Z - info: Current opened pages, from most-to-least recent:
+2024-07-22T16:54:00.727Z - info: 1. se-book-adapted/chapters/cppToJava
+2024-07-22T16:54:01.679Z - info: Assets built
+2024-07-22T16:55:58.898Z - info: [12:55:58 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\ip-tasks-fragment.md
+2024-07-22T16:55:58.899Z - info: Synchronizing opened pages list before reload
+2024-07-22T16:55:58.899Z - info: Current opened pages, from most-to-least recent:
+2024-07-22T16:55:58.899Z - info: 1. se-book-adapted/chapters/cppToJava
+2024-07-22T16:55:58.926Z - info: [12:55:58 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\index-tic2002-fragment.md
+2024-07-22T16:55:58.926Z - info: Synchronizing opened pages list before reload
+2024-07-22T16:55:58.926Z - info: Current opened pages, from most-to-least recent:
+2024-07-22T16:55:58.926Z - info: 1. se-book-adapted/chapters/cppToJava
+2024-07-22T16:55:58.956Z - info: [12:55:58 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\tp-tasks-fragment.md
+2024-07-22T16:55:58.956Z - info: Synchronizing opened pages list before reload
+2024-07-22T16:55:58.956Z - info: Current opened pages, from most-to-least recent:
+2024-07-22T16:55:58.956Z - info: 1. se-book-adapted/chapters/cppToJava
+2024-07-22T16:55:59.911Z - info: Assets built
+2024-07-22T16:58:45.619Z - info: [12:58:45 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_course-CS2103\weeklyAdminTopics-fragment.md
+2024-07-22T16:58:45.619Z - info: Synchronizing opened pages list before reload
+2024-07-22T16:58:45.620Z - info: Current opened pages, from most-to-least recent:
+2024-07-22T16:58:45.620Z - info: 1. se-book-adapted/chapters/cppToJava
+2024-07-22T16:58:45.633Z - info: [12:58:45 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_course-CS2103\weeklyTpTasks-fragment.md
+2024-07-22T16:58:45.634Z - info: Synchronizing opened pages list before reload
+2024-07-22T16:58:45.634Z - info: Current opened pages, from most-to-least recent:
+2024-07-22T16:58:45.634Z - info: 1. se-book-adapted/chapters/cppToJava
+2024-07-22T16:58:45.643Z - info: [12:58:45 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_course-CS2113\weeklyAdminTopics-fragment.md
+2024-07-22T16:58:45.643Z - info: Synchronizing opened pages list before reload
+2024-07-22T16:58:45.643Z - info: Current opened pages, from most-to-least recent:
+2024-07-22T16:58:45.644Z - info: 1. se-book-adapted/chapters/cppToJava
+2024-07-22T16:58:45.662Z - info: [12:58:45 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_markbind\variables.md
+2024-07-22T16:58:45.662Z - info: Synchronizing opened pages list before reload
+2024-07-22T16:58:45.663Z - info: Current opened pages, from most-to-least recent:
+2024-07-22T16:58:45.663Z - info: 1. se-book-adapted/chapters/cppToJava
+2024-07-22T16:58:45.690Z - info: [12:58:45 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\appendixE-gitHub.md
+2024-07-22T16:58:45.691Z - info: Synchronizing opened pages list before reload
+2024-07-22T16:58:45.691Z - info: Current opened pages, from most-to-least recent:
+2024-07-22T16:58:45.691Z - info: 1. se-book-adapted/chapters/cppToJava
+2024-07-22T16:58:45.700Z - info: [12:58:45 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\common-commentary-fragment.md
+2024-07-22T16:58:45.701Z - info: Synchronizing opened pages list before reload
+2024-07-22T16:58:45.701Z - info: Current opened pages, from most-to-least recent:
+2024-07-22T16:58:45.701Z - info: 1. se-book-adapted/chapters/cppToJava
+2024-07-22T16:58:45.706Z - info: [12:58:45 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\courseExpectations.md
+2024-07-22T16:58:45.707Z - info: Synchronizing opened pages list before reload
+2024-07-22T16:58:45.707Z - info: Current opened pages, from most-to-least recent:
+2024-07-22T16:58:45.707Z - info: 1. se-book-adapted/chapters/cppToJava
+2024-07-22T16:58:45.709Z - info: [12:58:45 am] Reload for file deletion: C:\repos\nus-cs2103\cs2103-website-base\admin\courseExpectations.md
+2024-07-22T16:58:45.709Z - info: Synchronizing opened pages list before reload
+2024-07-22T16:58:45.709Z - info: Current opened pages, from most-to-least recent:
+2024-07-22T16:58:45.710Z - info: 1. se-book-adapted/chapters/cppToJava
+2024-07-22T16:58:48.573Z - info: Assets built
+2024-07-22T16:58:48.610Z - warn: ENOENT: no such file or directory, open 'C:\repos\nus-cs2103\cs2103-website-base\cache\gh-pages\https!github.com!nus-cs2103-AY2425S1!website.git\book\_markbind\variables.md'
+2024-07-22T16:58:48.611Z - warn: ENOENT: no such file or directory, open 'C:\repos\nus-cs2103\cs2103-website-base\cache\gh-pages\https!github.com!nus-cs2103-AY2425S1!website.git\_markbind\variables.md'
+2024-07-22T16:58:48.655Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2024-07-22T16:58:48.658Z - info: Rebuilding 1 pages
+2024-07-22T16:58:49.760Z - info: [12:58:49 am] Reload for file deletion: C:\repos\nus-cs2103\cs2103-website-base\admin\index-tic2002-fragment.md
+2024-07-22T16:58:49.761Z - info: Synchronizing opened pages list before reload
+2024-07-22T16:58:49.762Z - info: Current opened pages, from most-to-least recent:
+2024-07-22T16:58:49.762Z - info: 1. se-book-adapted/chapters/cppToJava
+2024-07-22T16:58:49.763Z - info: Pages or site config modified, updating pages...
+2024-07-22T16:58:52.663Z - info: [12:58:52 am] Reload for file add: C:\repos\nus-cs2103\cs2103-website-base\admin\courseExpectations.md
+2024-07-22T16:58:52.663Z - info: Synchronizing opened pages list before reload
+2024-07-22T16:58:52.663Z - info: Current opened pages, from most-to-least recent:
+2024-07-22T16:58:52.663Z - info: 1. se-book-adapted/chapters/cppToJava
+2024-07-22T16:58:59.353Z - info: [12:58:59 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\ip-grading.md
+2024-07-22T16:58:59.353Z - info: Synchronizing opened pages list before reload
+2024-07-22T16:58:59.353Z - info: Current opened pages, from most-to-least recent:
+2024-07-22T16:58:59.354Z - info: 1. se-book-adapted/chapters/cppToJava
+2024-07-22T16:58:59.355Z - info: [12:58:59 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\ip-overview.md
+2024-07-22T16:58:59.355Z - info: Synchronizing opened pages list before reload
+2024-07-22T16:58:59.355Z - info: Current opened pages, from most-to-least recent:
+2024-07-22T16:58:59.356Z - info: 1. se-book-adapted/chapters/cppToJava
+2024-07-22T16:58:59.356Z - info: [12:58:59 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\ip-tasks-fragment.md
+2024-07-22T16:58:59.356Z - info: Synchronizing opened pages list before reload
+2024-07-22T16:58:59.357Z - info: Current opened pages, from most-to-least recent:
+2024-07-22T16:58:59.357Z - info: 1. se-book-adapted/chapters/cppToJava
+2024-07-22T16:58:59.358Z - info: [12:58:59 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\programmingLanguages.md
+2024-07-22T16:58:59.359Z - info: Synchronizing opened pages list before reload
+2024-07-22T16:58:59.359Z - info: Current opened pages, from most-to-least recent:
+2024-07-22T16:58:59.360Z - info: 1. se-book-adapted/chapters/cppToJava
+2024-07-22T16:58:59.360Z - info: [12:58:59 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\tp-ped-fragment.md
+2024-07-22T16:58:59.360Z - info: Synchronizing opened pages list before reload
+2024-07-22T16:58:59.361Z - info: Current opened pages, from most-to-least recent:
+2024-07-22T16:58:59.361Z - info: 1. se-book-adapted/chapters/cppToJava
+2024-07-22T16:58:59.362Z - info: [12:58:59 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\tp-tasks-fragment.md
+2024-07-22T16:58:59.362Z - info: Synchronizing opened pages list before reload
+2024-07-22T16:58:59.362Z - info: Current opened pages, from most-to-least recent:
+2024-07-22T16:58:59.363Z - info: 1. se-book-adapted/chapters/cppToJava
+2024-07-22T16:58:59.363Z - info: [12:58:59 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\tp-timeline.md
+2024-07-22T16:58:59.363Z - info: Synchronizing opened pages list before reload
+2024-07-22T16:58:59.363Z - info: Current opened pages, from most-to-least recent:
+2024-07-22T16:58:59.364Z - info: 1. se-book-adapted/chapters/cppToJava
+2024-07-22T16:58:59.364Z - info: [12:58:59 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\site.json
+2024-07-22T16:58:59.365Z - info: Synchronizing opened pages list before reload
+2024-07-22T16:58:59.365Z - info: Current opened pages, from most-to-least recent:
+2024-07-22T16:58:59.365Z - info: 1. se-book-adapted/chapters/cppToJava
+2024-07-22T16:59:04.245Z - info: Assets built
+2024-07-22T16:59:04.256Z - debug: Assets removed
+2024-07-22T16:59:04.258Z - info: [12:59:04 am] Reload for file add: C:\repos\nus-cs2103\cs2103-website-base\admin\index-tic2002-fragment.md
+2024-07-22T16:59:04.258Z - info: Synchronizing opened pages list before reload
+2024-07-22T16:59:04.258Z - info: Current opened pages, from most-to-least recent:
+2024-07-22T16:59:04.259Z - info: 1. se-book-adapted/chapters/cppToJava
+2024-07-22T16:59:09.059Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\se-book-adapted\chapters\cppToJava as some of its dependencies were changed since the last visit
+2024-07-22T16:59:10.767Z - info: Assets built
+2024-07-22T16:59:10.792Z - info: Pages or site config modified, updating pages...
+2024-07-22T16:59:16.537Z - info: [12:59:16 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\cppToJava\gettingStarted\running\q-runHelloWorld.md
+2024-07-22T16:59:16.537Z - info: Synchronizing opened pages list before reload
+2024-07-22T16:59:16.538Z - info: Current opened pages, from most-to-least recent:
+2024-07-22T16:59:16.538Z - info: 1. se-book-adapted/chapters/cppToJava
+2024-07-22T16:59:16.538Z - info: [12:59:16 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\projectDuke\text.md
+2024-07-22T16:59:16.539Z - info: Synchronizing opened pages list before reload
+2024-07-22T16:59:16.539Z - info: Current opened pages, from most-to-least recent:
+2024-07-22T16:59:16.539Z - info: 1. se-book-adapted/chapters/cppToJava
+2024-07-22T16:59:16.540Z - info: [12:59:16 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\specifyingRequirements\userStories\usage\tools.md
+2024-07-22T16:59:16.540Z - info: Synchronizing opened pages list before reload
+2024-07-22T16:59:16.541Z - info: Current opened pages, from most-to-least recent:
+2024-07-22T16:59:16.541Z - info: 1. se-book-adapted/chapters/cppToJava
+2024-07-22T16:59:16.576Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\se-book-adapted\chapters\cppToJava as some of its dependencies were changed since the last visit
+2024-07-22T16:59:17.583Z - info: Assets built
+2024-07-22T16:59:19.899Z - info: Site data built
+2024-07-22T16:59:19.899Z - info: Pages rebuilt
+2024-07-22T16:59:19.899Z - info: Website regeneration complete! Total build time: 31.305s
+2024-07-22T16:59:19.901Z - info: Rebuilding 1 pages
+2024-07-22T16:59:22.514Z - info: Site data built
+2024-07-22T16:59:22.515Z - info: Lazy website regeneration complete! Total build time: 13.457s
+2024-07-22T16:59:22.519Z - info: Pages or site config modified, updating pages...
+2024-07-22T16:59:25.691Z - info: Site data built
+2024-07-22T16:59:25.692Z - info: Lazy website regeneration complete! Total build time: 9.115s
+2024-07-22T16:59:25.703Z - info: Site data built
+2024-07-22T16:59:25.761Z - info: Site data built
+2024-07-22T16:59:25.761Z - info: Pages rebuilt
+2024-07-22T16:59:25.761Z - info: Website regeneration complete! Total build time: 5.861s
+2024-07-22T16:59:26.363Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\se-book-adapted\chapters\cppToJava as some of its dependencies were changed since the last visit
+2024-07-22T16:59:29.086Z - info: Site data built
+2024-07-22T16:59:29.087Z - info: Lazy website regeneration complete! Total build time: 2.723s
+2024-07-22T17:00:59.791Z - info: [1:00:59 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_course-CS2103\weeklyAdminTopics-fragment.md
+2024-07-22T17:00:59.791Z - info: Synchronizing opened pages list before reload
+2024-07-22T17:00:59.791Z - info: No pages are currently opened
+2024-07-22T17:00:59.802Z - info: [1:00:59 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_course-CS2103\weeklyTpTasks-fragment.md
+2024-07-22T17:00:59.802Z - info: Synchronizing opened pages list before reload
+2024-07-22T17:00:59.802Z - info: No pages are currently opened
+2024-07-22T17:00:59.814Z - info: [1:00:59 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_course-CS2113\weeklyAdminTopics-fragment.md
+2024-07-22T17:00:59.815Z - info: Synchronizing opened pages list before reload
+2024-07-22T17:00:59.815Z - info: No pages are currently opened
+2024-07-22T17:00:59.836Z - info: [1:00:59 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\appendixE-gitHub.md
+2024-07-22T17:00:59.836Z - info: Synchronizing opened pages list before reload
+2024-07-22T17:00:59.836Z - info: No pages are currently opened
+2024-07-22T17:00:59.855Z - info: [1:00:59 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\courseExpectations.md
+2024-07-22T17:00:59.855Z - info: Synchronizing opened pages list before reload
+2024-07-22T17:00:59.855Z - info: No pages are currently opened
+2024-07-22T17:00:59.864Z - info: [1:00:59 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\index-tic2002-fragment.md
+2024-07-22T17:00:59.864Z - info: Synchronizing opened pages list before reload
+2024-07-22T17:00:59.864Z - info: No pages are currently opened
+2024-07-22T17:00:59.879Z - info: [1:00:59 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\ip-grading.md
+2024-07-22T17:00:59.879Z - info: Synchronizing opened pages list before reload
+2024-07-22T17:00:59.879Z - info: No pages are currently opened
+2024-07-22T17:00:59.885Z - info: [1:00:59 am] Reload for file deletion: C:\repos\nus-cs2103\cs2103-website-base\admin\ip-overview.md
+2024-07-22T17:00:59.886Z - info: Synchronizing opened pages list before reload
+2024-07-22T17:00:59.886Z - info: No pages are currently opened
+2024-07-22T17:01:03.939Z - info: [1:01:03 am] Reload for file deletion: C:\repos\nus-cs2103\cs2103-website-base\admin\tp-tasks-fragment.md
+2024-07-22T17:01:03.940Z - info: Synchronizing opened pages list before reload
+2024-07-22T17:01:03.940Z - info: No pages are currently opened
+2024-07-22T17:01:03.941Z - info: Assets built
+2024-07-22T17:01:03.942Z - info: No pages needed to be rebuilt
+2024-07-22T17:01:03.943Z - info: [1:01:03 am] Reload for file add: C:\repos\nus-cs2103\cs2103-website-base\admin\ip-overview.md
+2024-07-22T17:01:03.943Z - info: Synchronizing opened pages list before reload
+2024-07-22T17:01:03.943Z - info: No pages are currently opened
+2024-07-22T17:01:08.905Z - info: Pages or site config modified, updating pages...
+2024-07-22T17:01:11.354Z - debug: Assets removed
+2024-07-22T17:01:11.386Z - warn:  RangeError: Invalid array length
+    at ProgressBar.render (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\lib\progress\node-progress.js:188:14)
+    at Site.<anonymous> (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Site\index.js:875:25)
+    at Generator.next (<anonymous>)
+    at C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Site\index.js:31:71
+    at new Promise (<anonymous>)
+    at __awaiter (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Site\index.js:27:12)
+    at Site.runPageGenerationTasks (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Site\index.js:872:16)
+    at Site.<anonymous> (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Site\index.js:580:28)
+    at Generator.next (<anonymous>)
+    at C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Site\index.js:31:71
+    at new Promise (<anonymous>)
+    at __awaiter (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Site\index.js:27:12)
+    at Site._rebuildPagesBeingViewed (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Site\index.js:568:16)
+    at Site.<anonymous> (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Site\index.js:656:28)
+    at Generator.next (<anonymous>)
+    at C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Site\index.js:31:71
+2024-07-22T17:01:11.387Z - info: [1:01:11 am] Reload for file add: C:\repos\nus-cs2103\cs2103-website-base\admin\tp-tasks-fragment.md
+2024-07-22T17:01:11.387Z - info: Synchronizing opened pages list before reload
+2024-07-22T17:01:11.387Z - info: No pages are currently opened
+2024-07-22T17:01:11.394Z - info: [1:01:11 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\tp-timeline.md
+2024-07-22T17:01:11.394Z - info: Synchronizing opened pages list before reload
+2024-07-22T17:01:11.394Z - info: No pages are currently opened
+2024-07-22T17:01:14.734Z - info: Assets built
+2024-07-22T17:01:14.736Z - info: No pages needed to be rebuilt
+2024-07-22T17:01:17.630Z - info: [1:01:17 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\common-commentary-fragment.md
+2024-07-22T17:01:17.632Z - info: Synchronizing opened pages list before reload
+2024-07-22T17:01:17.632Z - info: No pages are currently opened
+2024-07-22T17:01:17.643Z - info: [1:01:17 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\index-tic2002-fragment.md
+2024-07-22T17:01:17.643Z - info: Synchronizing opened pages list before reload
+2024-07-22T17:01:17.644Z - info: No pages are currently opened
+2024-07-22T17:01:17.656Z - info: [1:01:17 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\ip-tasks-fragment.md
+2024-07-22T17:01:17.657Z - info: Synchronizing opened pages list before reload
+2024-07-22T17:01:17.658Z - info: No pages are currently opened
+2024-07-22T17:01:17.663Z - info: [1:01:17 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\programmingLanguages.md
+2024-07-22T17:01:17.664Z - info: Synchronizing opened pages list before reload
+2024-07-22T17:01:17.665Z - info: No pages are currently opened
+2024-07-22T17:01:17.666Z - info: [1:01:17 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\tp-ped-fragment.md
+2024-07-22T17:01:17.667Z - info: Synchronizing opened pages list before reload
+2024-07-22T17:01:17.667Z - info: No pages are currently opened
+2024-07-22T17:01:17.668Z - info: [1:01:17 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\tp-tasks-fragment.md
+2024-07-22T17:01:17.669Z - info: Synchronizing opened pages list before reload
+2024-07-22T17:01:17.670Z - info: No pages are currently opened
+2024-07-22T17:01:18.910Z - info: Assets built
+2024-07-22T17:01:18.916Z - info: No pages needed to be rebuilt
+2024-07-22T17:02:41.178Z - info: [1:02:41 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_markbind\variables.md
+2024-07-22T17:02:41.179Z - info: Synchronizing opened pages list before reload
+2024-07-22T17:02:41.179Z - info: No pages are currently opened
+2024-07-22T17:02:41.191Z - info: [1:02:41 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\site.json
+2024-07-22T17:02:41.191Z - info: Synchronizing opened pages list before reload
+2024-07-22T17:02:41.192Z - info: No pages are currently opened
+2024-07-22T17:02:44.497Z - warn: ENOENT: no such file or directory, open 'C:\repos\nus-cs2103\cs2103-website-base\cache\gh-pages\https!github.com!nus-cs2103-AY2425S1!website.git\book\_markbind\variables.md'
+2024-07-22T17:02:44.498Z - warn: ENOENT: no such file or directory, open 'C:\repos\nus-cs2103\cs2103-website-base\cache\gh-pages\https!github.com!nus-cs2103-AY2425S1!website.git\_markbind\variables.md'
+2024-07-22T17:02:44.550Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2024-07-22T17:02:44.552Z - info: No pages needed to be rebuilt
+2024-07-22T17:02:44.555Z - info: [1:02:44 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_markbind\variables.md
+2024-07-22T17:02:44.555Z - info: Synchronizing opened pages list before reload
+2024-07-22T17:02:44.555Z - info: No pages are currently opened
+2024-07-22T17:02:44.556Z - info: [1:02:44 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_course-CS2103\weeklyAdminTopics-fragment.md
+2024-07-22T17:02:44.556Z - info: Synchronizing opened pages list before reload
+2024-07-22T17:02:44.556Z - info: No pages are currently opened
+2024-07-22T17:02:44.556Z - info: [1:02:44 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_course-CS2113\weeklyAdminTopics-fragment.md
+2024-07-22T17:02:44.557Z - info: Synchronizing opened pages list before reload
+2024-07-22T17:02:44.557Z - info: No pages are currently opened
+2024-07-22T17:02:44.558Z - info: [1:02:44 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\appendixE-gitHub.md
+2024-07-22T17:02:44.558Z - info: Synchronizing opened pages list before reload
+2024-07-22T17:02:44.558Z - info: No pages are currently opened
+2024-07-22T17:02:44.598Z - info: [1:02:44 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\se-book-adapted\config.njk
+2024-07-22T17:02:44.599Z - info: Synchronizing opened pages list before reload
+2024-07-22T17:02:44.599Z - info: No pages are currently opened
+2024-07-22T17:02:44.601Z - info: [1:02:44 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\site.json
+2024-07-22T17:02:44.601Z - info: Synchronizing opened pages list before reload
+2024-07-22T17:02:44.602Z - info: No pages are currently opened
+2024-07-22T17:02:44.602Z - info: [1:02:44 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\README.md
+2024-07-22T17:02:44.602Z - info: Synchronizing opened pages list before reload
+2024-07-22T17:02:44.602Z - info: No pages are currently opened
+2024-07-22T17:02:44.603Z - info: [1:02:44 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\favicon.ico
+2024-07-22T17:02:44.603Z - info: Synchronizing opened pages list before reload
+2024-07-22T17:02:44.603Z - info: No pages are currently opened
+2024-07-22T17:02:44.603Z - info: [1:02:44 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_course-CS2103\weeklyTpTasks-fragment.md
+2024-07-22T17:02:44.603Z - info: Synchronizing opened pages list before reload
+2024-07-22T17:02:44.603Z - info: No pages are currently opened
+2024-07-22T17:02:44.603Z - info: [1:02:44 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\ip-tasks-fragment.md
+2024-07-22T17:02:44.604Z - info: Synchronizing opened pages list before reload
+2024-07-22T17:02:44.604Z - info: No pages are currently opened
+2024-07-22T17:02:44.604Z - info: [1:02:44 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\programmingLanguages.md
+2024-07-22T17:02:44.604Z - info: Synchronizing opened pages list before reload
+2024-07-22T17:02:44.604Z - info: No pages are currently opened
+2024-07-22T17:02:44.604Z - info: [1:02:44 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\tp-ped-fragment.md
+2024-07-22T17:02:44.605Z - info: Synchronizing opened pages list before reload
+2024-07-22T17:02:44.605Z - info: No pages are currently opened
+2024-07-22T17:02:44.605Z - info: [1:02:44 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\tp-timeline.md
+2024-07-22T17:02:44.605Z - info: Synchronizing opened pages list before reload
+2024-07-22T17:02:44.605Z - info: No pages are currently opened
+2024-07-22T17:02:44.606Z - info: [1:02:44 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\common-commentary-fragment.md
+2024-07-22T17:02:44.606Z - info: Synchronizing opened pages list before reload
+2024-07-22T17:02:44.607Z - info: No pages are currently opened
+2024-07-22T17:02:44.607Z - info: [1:02:44 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\courseExpectations.md
+2024-07-22T17:02:44.607Z - info: Synchronizing opened pages list before reload
+2024-07-22T17:02:44.607Z - info: No pages are currently opened
+2024-07-22T17:02:44.607Z - info: [1:02:44 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\index-tic2002-fragment.md
+2024-07-22T17:02:44.607Z - info: Synchronizing opened pages list before reload
+2024-07-22T17:02:44.608Z - info: No pages are currently opened
+2024-07-22T17:02:44.608Z - info: [1:02:44 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\ip-grading.md
+2024-07-22T17:02:44.608Z - info: Synchronizing opened pages list before reload
+2024-07-22T17:02:44.608Z - info: No pages are currently opened
+2024-07-22T17:02:44.608Z - info: [1:02:44 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\ip-overview.md
+2024-07-22T17:02:44.608Z - info: Synchronizing opened pages list before reload
+2024-07-22T17:02:44.608Z - info: No pages are currently opened
+2024-07-22T17:02:44.609Z - info: [1:02:44 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\tp-tasks-fragment.md
+2024-07-22T17:02:44.609Z - info: Synchronizing opened pages list before reload
+2024-07-22T17:02:44.609Z - info: No pages are currently opened
+2024-07-22T17:02:47.680Z - warn: ENOENT: no such file or directory, open 'C:\repos\nus-cs2103\cs2103-website-base\cache\gh-pages\https!github.com!nus-cs2103-AY2425S1!website.git\book\_markbind\variables.md'
+2024-07-22T17:02:47.680Z - warn: ENOENT: no such file or directory, open 'C:\repos\nus-cs2103\cs2103-website-base\cache\gh-pages\https!github.com!nus-cs2103-AY2425S1!website.git\_markbind\variables.md'
+2024-07-22T17:02:47.719Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2024-07-22T17:02:47.721Z - info: No pages needed to be rebuilt
+2024-07-22T17:02:47.724Z - debug: Assets removed
+2024-07-22T17:02:47.736Z - info: Pages or site config modified, updating pages...
+2024-07-22T17:02:50.332Z - info: Pages or site config modified, updating pages...
+2024-07-22T17:02:52.831Z - info: [1:02:52 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_course-CS2103\weeklyAdminTopics-fragment.md
+2024-07-22T17:02:52.832Z - info: Synchronizing opened pages list before reload
+2024-07-22T17:02:52.832Z - info: No pages are currently opened
+2024-07-22T17:02:52.832Z - info: [1:02:52 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_course-CS2113\weeklyAdminTopics-fragment.md
+2024-07-22T17:02:52.832Z - info: Synchronizing opened pages list before reload
+2024-07-22T17:02:52.832Z - info: No pages are currently opened
+2024-07-22T17:02:52.833Z - info: [1:02:52 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_markbind\variables.md
+2024-07-22T17:02:52.833Z - info: Synchronizing opened pages list before reload
+2024-07-22T17:02:52.833Z - info: No pages are currently opened
+2024-07-22T17:02:52.833Z - info: [1:02:52 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\appendixE-gitHub.md
+2024-07-22T17:02:52.833Z - info: Synchronizing opened pages list before reload
+2024-07-22T17:02:52.833Z - info: No pages are currently opened
+2024-07-22T17:02:52.834Z - info: [1:02:52 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\se-book-adapted\config.njk
+2024-07-22T17:02:52.834Z - info: Synchronizing opened pages list before reload
+2024-07-22T17:02:52.835Z - info: No pages are currently opened
+2024-07-22T17:02:52.835Z - info: [1:02:52 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_markbind\layouts\header.md
+2024-07-22T17:02:52.835Z - info: Synchronizing opened pages list before reload
+2024-07-22T17:02:52.835Z - info: No pages are currently opened
+2024-07-22T17:02:52.835Z - info: [1:02:52 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\css\main.css
+2024-07-22T17:02:52.836Z - info: Synchronizing opened pages list before reload
+2024-07-22T17:02:52.836Z - info: No pages are currently opened
+2024-07-22T17:02:52.836Z - info: [1:02:52 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\se-book-adapted\chapters-printable\chapter-printable.njk
+2024-07-22T17:02:52.836Z - info: Synchronizing opened pages list before reload
+2024-07-22T17:02:52.836Z - info: No pages are currently opened
+2024-07-22T17:02:52.837Z - info: [1:02:52 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\se-book-adapted\chapters\chapter.njk
+2024-07-22T17:02:52.837Z - info: Synchronizing opened pages list before reload
+2024-07-22T17:02:52.837Z - info: No pages are currently opened
+2024-07-22T17:02:52.899Z - warn:  RangeError: Invalid array length
+    at ProgressBar.render (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\lib\progress\node-progress.js:188:14)
+    at Site.<anonymous> (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Site\index.js:875:25)
+    at Generator.next (<anonymous>)
+    at C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Site\index.js:31:71
+    at new Promise (<anonymous>)
+    at __awaiter (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Site\index.js:27:12)
+    at Site.runPageGenerationTasks (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Site\index.js:872:16)
+    at Site.<anonymous> (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Site\index.js:580:28)
+    at Generator.next (<anonymous>)
+    at C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Site\index.js:31:71
+    at new Promise (<anonymous>)
+    at __awaiter (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Site\index.js:27:12)
+    at Site._rebuildPagesBeingViewed (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Site\index.js:568:16)
+    at Site.<anonymous> (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Site\index.js:656:28)
+    at Generator.next (<anonymous>)
+    at C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Site\index.js:31:71
+2024-07-22T17:02:52.900Z - warn:  RangeError: Invalid array length
+    at ProgressBar.render (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\lib\progress\node-progress.js:188:14)
+    at Site.<anonymous> (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Site\index.js:875:25)
+    at Generator.next (<anonymous>)
+    at C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Site\index.js:31:71
+    at new Promise (<anonymous>)
+    at __awaiter (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Site\index.js:27:12)
+    at Site.runPageGenerationTasks (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Site\index.js:872:16)
+    at Site.<anonymous> (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Site\index.js:580:28)
+    at Generator.next (<anonymous>)
+    at C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Site\index.js:31:71
+    at new Promise (<anonymous>)
+    at __awaiter (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Site\index.js:27:12)
+    at Site._rebuildPagesBeingViewed (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Site\index.js:568:16)
+    at Site.<anonymous> (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Site\index.js:656:28)
+    at Generator.next (<anonymous>)
+    at C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Site\index.js:31:71
+2024-07-22T17:02:52.929Z - info: [1:02:52 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\README.md
+2024-07-22T17:02:52.930Z - info: Synchronizing opened pages list before reload
+2024-07-22T17:02:52.930Z - info: No pages are currently opened
+2024-07-22T17:02:52.933Z - info: [1:02:52 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\favicon.ico
+2024-07-22T17:02:52.933Z - info: Synchronizing opened pages list before reload
+2024-07-22T17:02:52.934Z - info: No pages are currently opened
+2024-07-22T17:02:52.934Z - info: [1:02:52 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\site.json
+2024-07-22T17:02:52.934Z - info: Synchronizing opened pages list before reload
+2024-07-22T17:02:52.934Z - info: No pages are currently opened
+2024-07-22T17:02:52.935Z - info: [1:02:52 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_course-CS2103\weeklyTpTasks-fragment.md
+2024-07-22T17:02:52.935Z - info: Synchronizing opened pages list before reload
+2024-07-22T17:02:52.935Z - info: No pages are currently opened
+2024-07-22T17:02:52.936Z - info: [1:02:52 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\ip-tasks-fragment.md
+2024-07-22T17:02:52.936Z - info: Synchronizing opened pages list before reload
+2024-07-22T17:02:52.936Z - info: No pages are currently opened
+2024-07-22T17:02:52.936Z - info: [1:02:52 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\programmingLanguages.md
+2024-07-22T17:02:52.937Z - info: Synchronizing opened pages list before reload
+2024-07-22T17:02:52.937Z - info: No pages are currently opened
+2024-07-22T17:02:52.937Z - info: [1:02:52 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\tp-ped-fragment.md
+2024-07-22T17:02:52.938Z - info: Synchronizing opened pages list before reload
+2024-07-22T17:02:52.938Z - info: No pages are currently opened
+2024-07-22T17:02:52.938Z - info: [1:02:52 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\tp-timeline.md
+2024-07-22T17:02:52.938Z - info: Synchronizing opened pages list before reload
+2024-07-22T17:02:52.938Z - info: No pages are currently opened
+2024-07-22T17:02:52.939Z - info: [1:02:52 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\common-commentary-fragment.md
+2024-07-22T17:02:52.939Z - info: Synchronizing opened pages list before reload
+2024-07-22T17:02:52.939Z - info: No pages are currently opened
+2024-07-22T17:02:52.939Z - info: [1:02:52 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\courseExpectations.md
+2024-07-22T17:02:52.940Z - info: Synchronizing opened pages list before reload
+2024-07-22T17:02:52.940Z - info: No pages are currently opened
+2024-07-22T17:02:52.940Z - info: [1:02:52 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\index-tic2002-fragment.md
+2024-07-22T17:02:52.941Z - info: Synchronizing opened pages list before reload
+2024-07-22T17:02:52.941Z - info: No pages are currently opened
+2024-07-22T17:02:52.941Z - info: [1:02:52 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\ip-overview.md
+2024-07-22T17:02:52.941Z - info: Synchronizing opened pages list before reload
+2024-07-22T17:02:52.941Z - info: No pages are currently opened
+2024-07-22T17:02:52.942Z - info: [1:02:52 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\ip-grading.md
+2024-07-22T17:02:52.942Z - info: Synchronizing opened pages list before reload
+2024-07-22T17:02:52.942Z - info: No pages are currently opened
+2024-07-22T17:02:52.942Z - info: [1:02:52 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\tp-tasks-fragment.md
+2024-07-22T17:02:52.942Z - info: Synchronizing opened pages list before reload
+2024-07-22T17:02:52.942Z - info: No pages are currently opened
+2024-07-22T17:02:52.942Z - info: [1:02:52 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\se-book-adapted\print.md
+2024-07-22T17:02:52.943Z - info: Synchronizing opened pages list before reload
+2024-07-22T17:02:52.949Z - info: No pages are currently opened
+2024-07-22T17:02:55.948Z - warn: ENOENT: no such file or directory, open 'C:\repos\nus-cs2103\cs2103-website-base\cache\gh-pages\https!github.com!nus-cs2103-AY2425S1!website.git\book\_markbind\variables.md'
+2024-07-22T17:02:55.949Z - warn: ENOENT: no such file or directory, open 'C:\repos\nus-cs2103\cs2103-website-base\cache\gh-pages\https!github.com!nus-cs2103-AY2425S1!website.git\_markbind\variables.md'
+2024-07-22T17:02:55.980Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2024-07-22T17:02:55.985Z - info: No pages needed to be rebuilt
+2024-07-22T17:02:56.013Z - info: Assets built
+2024-07-22T17:02:56.018Z - info: Site data built
+2024-07-22T17:02:56.019Z - info: Site data built
+2024-07-22T17:02:56.039Z - info: Assets built
+2024-07-22T17:02:56.956Z - debug: Assets removed
+2024-07-22T17:02:56.975Z - info: Pages or site config modified, updating pages...
+2024-07-22T17:03:00.509Z - warn:  RangeError: Invalid array length
+    at ProgressBar.render (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\lib\progress\node-progress.js:188:14)
+    at Site.<anonymous> (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Site\index.js:875:25)
+    at Generator.next (<anonymous>)
+    at C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Site\index.js:31:71
+    at new Promise (<anonymous>)
+    at __awaiter (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Site\index.js:27:12)
+    at Site.runPageGenerationTasks (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Site\index.js:872:16)
+    at Site.<anonymous> (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Site\index.js:580:28)
+    at Generator.next (<anonymous>)
+    at C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Site\index.js:31:71
+    at new Promise (<anonymous>)
+    at __awaiter (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Site\index.js:27:12)
+    at Site._rebuildPagesBeingViewed (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Site\index.js:568:16)
+    at Site.<anonymous> (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Site\index.js:656:28)
+    at Generator.next (<anonymous>)
+    at C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Site\index.js:31:71
+2024-07-22T17:03:00.540Z - info: Site data built
+2024-07-22T17:03:09.290Z - info: [1:03:09 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_markbind\layouts\header.md
+2024-07-22T17:03:09.291Z - info: Synchronizing opened pages list before reload
+2024-07-22T17:03:09.291Z - info: No pages are currently opened
+2024-07-22T17:03:09.299Z - info: [1:03:09 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_markbind\variables.md
+2024-07-22T17:03:09.299Z - info: Synchronizing opened pages list before reload
+2024-07-22T17:03:09.299Z - info: No pages are currently opened
+2024-07-22T17:03:09.306Z - info: [1:03:09 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\css\main.css
+2024-07-22T17:03:09.307Z - info: Synchronizing opened pages list before reload
+2024-07-22T17:03:09.307Z - info: No pages are currently opened
+2024-07-22T17:03:09.313Z - info: [1:03:09 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\favicon.ico
+2024-07-22T17:03:09.313Z - info: Synchronizing opened pages list before reload
+2024-07-22T17:03:09.313Z - info: No pages are currently opened
+2024-07-22T17:03:09.320Z - info: [1:03:09 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\se-book-adapted\chapters-printable\chapter-printable.njk
+2024-07-22T17:03:09.320Z - info: Synchronizing opened pages list before reload
+2024-07-22T17:03:09.320Z - info: No pages are currently opened
+2024-07-22T17:03:09.329Z - info: [1:03:09 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\se-book-adapted\chapters\chapter.njk
+2024-07-22T17:03:09.329Z - info: Synchronizing opened pages list before reload
+2024-07-22T17:03:09.329Z - info: No pages are currently opened
+2024-07-22T17:03:09.332Z - info: [1:03:09 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\se-book-adapted\config.njk
+2024-07-22T17:03:09.333Z - info: Synchronizing opened pages list before reload
+2024-07-22T17:03:09.333Z - info: No pages are currently opened
+2024-07-22T17:03:09.343Z - info: [1:03:09 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\se-book-adapted\print.md
+2024-07-22T17:03:09.343Z - info: Synchronizing opened pages list before reload
+2024-07-22T17:03:09.344Z - info: No pages are currently opened
+2024-07-22T17:03:09.348Z - info: [1:03:09 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\site.json
+2024-07-22T17:03:09.348Z - info: Synchronizing opened pages list before reload
+2024-07-22T17:03:09.349Z - info: No pages are currently opened
+2024-07-22T17:03:13.388Z - warn: ENOENT: no such file or directory, open 'C:\repos\nus-cs2103\cs2103-website-base\cache\gh-pages\https!github.com!nus-cs2103-AY2425S1!website.git\book\_markbind\variables.md'
+2024-07-22T17:03:13.389Z - warn: ENOENT: no such file or directory, open 'C:\repos\nus-cs2103\cs2103-website-base\cache\gh-pages\https!github.com!nus-cs2103-AY2425S1!website.git\_markbind\variables.md'
+2024-07-22T17:03:13.408Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2024-07-22T17:03:13.409Z - info: No pages needed to be rebuilt
+2024-07-22T17:03:13.423Z - info: Assets built
+2024-07-22T17:03:14.392Z - debug: Assets removed
+2024-07-22T17:03:14.400Z - info: Pages or site config modified, updating pages...
+2024-07-22T17:03:17.714Z - warn:  RangeError: Invalid array length
+    at ProgressBar.render (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\lib\progress\node-progress.js:188:14)
+    at Site.<anonymous> (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Site\index.js:875:25)
+    at Generator.next (<anonymous>)
+    at C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Site\index.js:31:71
+    at new Promise (<anonymous>)
+    at __awaiter (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Site\index.js:27:12)
+    at Site.runPageGenerationTasks (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Site\index.js:872:16)
+    at Site.<anonymous> (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Site\index.js:580:28)
+    at Generator.next (<anonymous>)
+    at C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Site\index.js:31:71
+    at new Promise (<anonymous>)
+    at __awaiter (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Site\index.js:27:12)
+    at Site._rebuildPagesBeingViewed (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Site\index.js:568:16)
+    at Site.<anonymous> (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Site\index.js:656:28)
+    at Generator.next (<anonymous>)
+    at C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Site\index.js:31:71
+2024-07-22T17:03:17.735Z - info: Site data built
+2024-07-22T17:04:45.872Z - info: [1:04:45 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\cppToJava\gettingStarted\running\q-runHelloWorld.md
+2024-07-22T17:04:45.873Z - info: Synchronizing opened pages list before reload
+2024-07-22T17:04:45.873Z - info: No pages are currently opened
+2024-07-22T17:04:45.890Z - info: [1:04:45 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\projectDuke\text.md
+2024-07-22T17:04:45.891Z - info: Synchronizing opened pages list before reload
+2024-07-22T17:04:45.891Z - info: No pages are currently opened
+2024-07-22T17:04:45.905Z - info: [1:04:45 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\specifyingRequirements\userStories\usage\tools.md
+2024-07-22T17:04:45.905Z - info: Synchronizing opened pages list before reload
+2024-07-22T17:04:45.905Z - info: No pages are currently opened
+2024-07-22T17:04:46.889Z - info: Assets built
+2024-07-22T17:08:32.140Z - info: Website generation started at 1:08:32 am
+2024-07-22T17:08:40.005Z - info: Building assets...
+2024-07-22T17:08:47.339Z - info: Assets built
+2024-07-22T17:08:47.340Z - info: Generating pages...
+2024-07-22T17:09:08.632Z - debug:  
+2024-07-22T17:09:08.637Z - debug:  
+2024-07-22T17:09:08.638Z - debug:  
+2024-07-22T17:09:08.639Z - debug:  
+2024-07-22T17:09:08.643Z - debug:  
+2024-07-22T17:09:08.646Z - debug:  
+2024-07-22T17:09:08.647Z - debug:  
+2024-07-22T17:09:08.648Z - debug:  
+2024-07-22T17:09:08.648Z - debug:  
+2024-07-22T17:09:08.649Z - debug:  
+2024-07-22T17:09:08.650Z - debug:  
+2024-07-22T17:09:08.651Z - debug:  
+2024-07-22T17:09:09.150Z - debug:  
+2024-07-22T17:09:09.154Z - debug:  
+2024-07-22T17:09:09.155Z - debug:  
+2024-07-22T17:09:12.922Z - debug:  
+2024-07-22T17:09:12.923Z - debug:  
+2024-07-22T17:10:44.290Z - error: Invalid HTML in C:\repos\nus-cs2103\cs2103-website-base\schedule\week5\tutorial.md.
+Table must have a tbody tag. Please correct this to avoid Vue hydration issues.
+
+2024-07-22T17:11:10.687Z - error: Invalid HTML in C:\repos\nus-cs2103\cs2103-website-base\schedule\week4\project.md.
+Table must have a tbody tag. Please correct this to avoid Vue hydration issues.
+
+2024-07-22T17:11:10.688Z - error: Invalid HTML in C:\repos\nus-cs2103\cs2103-website-base\schedule\week4\project.md.
+Table must have a tbody tag. Please correct this to avoid Vue hydration issues.
+
+2024-07-22T17:11:38.679Z - debug:  
+2024-07-22T17:12:05.927Z - debug:  
+2024-07-22T17:12:05.952Z - debug:  
+2024-07-22T17:12:16.155Z - error: Invalid HTML in C:\repos\nus-cs2103\cs2103-website-base\admin\ip-w4.md.
+Table must have a tbody tag. Please correct this to avoid Vue hydration issues.
+
+2024-07-22T17:12:16.156Z - error: Invalid HTML in C:\repos\nus-cs2103\cs2103-website-base\admin\ip-w4.md.
+Table must have a tbody tag. Please correct this to avoid Vue hydration issues.
+
+2024-07-22T17:12:20.746Z - info: Pages built
+2024-07-22T17:12:22.623Z - info: Site data built
+2024-07-22T17:12:22.624Z - info: Website generation complete! Total build time: 230.507s
+2024-07-22T17:12:22.624Z - info: Build success!
+2024-07-22T17:17:09.737Z - info: The website has been deployed at: https://nus-cs2103-ay2425s1.github.io/website
+2024-07-22T17:23:51.788Z - info: Website generation started at 1:23:46 am
+2024-07-22T17:23:58.315Z - info: Building assets...
+2024-07-22T17:24:03.179Z - info: Assets built
+2024-07-22T17:24:03.179Z - info: Generating pages...
+2024-07-22T17:24:18.912Z - debug:  
+2024-07-22T17:24:18.914Z - debug:  
+2024-07-22T17:24:18.915Z - debug:  
+2024-07-22T17:24:18.915Z - debug:  
+2024-07-22T17:24:18.916Z - debug:  
+2024-07-22T17:24:19.381Z - debug:  
+2024-07-22T17:24:19.383Z - debug:  
+2024-07-22T17:24:19.384Z - debug:  
+2024-07-22T17:24:19.440Z - debug:  
+2024-07-22T17:24:19.509Z - debug:  
+2024-07-22T17:24:19.697Z - debug:  
+2024-07-22T17:24:22.224Z - debug:  
+2024-07-22T17:24:22.225Z - debug:  
+2024-07-22T17:24:22.225Z - debug:  
+2024-07-22T17:24:22.225Z - debug:  
+2024-07-22T17:24:22.225Z - debug:  
+2024-07-22T17:24:26.483Z - debug:  
+2024-07-22T17:25:35.394Z - error: Invalid HTML in C:\repos\nus-cs2103\cs2103-website-base\schedule\week4\tutorial.md.
+Table must have a tbody tag. Please correct this to avoid Vue hydration issues.
+
+2024-07-22T17:25:35.395Z - error: Invalid HTML in C:\repos\nus-cs2103\cs2103-website-base\schedule\week4\tutorial.md.
+Table must have a tbody tag. Please correct this to avoid Vue hydration issues.
+
+2024-07-22T17:25:35.859Z - error: Invalid HTML in C:\repos\nus-cs2103\cs2103-website-base\schedule\week11\tutorial.md.
+Table must have a tbody tag. Please correct this to avoid Vue hydration issues.
+
+2024-07-22T17:25:56.497Z - error: Invalid HTML in C:\repos\nus-cs2103\cs2103-website-base\schedule\week4\project.md.
+Table must have a tbody tag. Please correct this to avoid Vue hydration issues.
+
+2024-07-22T17:25:56.497Z - error: Invalid HTML in C:\repos\nus-cs2103\cs2103-website-base\schedule\week4\project.md.
+Table must have a tbody tag. Please correct this to avoid Vue hydration issues.
+
+2024-07-22T17:26:01.837Z - error: Invalid HTML in C:\repos\nus-cs2103\cs2103-website-base\schedule\week11\project.md.
+Table must have a tbody tag. Please correct this to avoid Vue hydration issues.
+
+2024-07-22T17:26:15.569Z - debug:  
+2024-07-22T17:26:26.808Z - error: Invalid HTML in C:\repos\nus-cs2103\cs2103-website-base\admin\tp-w11.md.
+Table must have a tbody tag. Please correct this to avoid Vue hydration issues.
+
+2024-07-22T17:26:30.009Z - debug:  
+2024-07-22T17:26:30.188Z - debug:  
+2024-07-22T17:26:35.117Z - error: Invalid HTML in C:\repos\nus-cs2103\cs2103-website-base\admin\ip-w4.md.
+Table must have a tbody tag. Please correct this to avoid Vue hydration issues.
+
+2024-07-22T17:26:35.117Z - error: Invalid HTML in C:\repos\nus-cs2103\cs2103-website-base\admin\ip-w4.md.
+Table must have a tbody tag. Please correct this to avoid Vue hydration issues.
+
+2024-07-22T17:26:37.651Z - info: Pages built
+2024-07-22T17:26:38.733Z - info: Site data built
+2024-07-22T17:26:38.734Z - info: Website generation complete! Total build time: 171.975s
+2024-07-22T17:26:38.734Z - info: Build success!
+2024-07-22T17:30:00.907Z - info: The website has been deployed at: https://nus-cs2113-ay2425s1.github.io/website
+2024-07-23T02:40:51.554Z - info: Website generation (lazy) started at 10:40:42 am
+2024-07-23T02:41:03.361Z - warn: ENOENT: no such file or directory, open 'C:\repos\nus-cs2103\cs2103-website-base\cache\gh-pages\https!github.com!nus-cs2113-AY2425S1!website.git\book\_markbind\variables.md'
+2024-07-23T02:41:03.363Z - warn: ENOENT: no such file or directory, open 'C:\repos\nus-cs2103\cs2103-website-base\cache\gh-pages\https!github.com!nus-cs2113-AY2425S1!website.git\_markbind\variables.md'
+2024-07-23T02:41:03.440Z - info: Building assets...
+2024-07-23T02:41:54.694Z - info: Assets built
+2024-07-23T02:41:54.695Z - info: Generating landing page...
+2024-07-23T02:41:55.574Z - info: Landing page built, other pages will be built as you navigate to them!
+2024-07-23T02:41:56.861Z - info: Site data built
+2024-07-23T02:41:56.861Z - info: Website generation (lazy) complete! Total build time: 74.664s
+2024-07-23T02:41:57.283Z - info: Serving "C:\repos\nus-cs2103\cs2103-website-base\_site" at http://127.0.0.1:8080
+2024-07-23T02:41:57.283Z - info: Press CTRL+C to stop ...
+2024-07-23T02:45:03.818Z - info: Website generation started at 10:44:46 am
+2024-07-23T02:45:13.382Z - info: Building assets...
+2024-07-23T02:45:19.777Z - info: Assets built
+2024-07-23T02:45:19.779Z - info: Generating pages...
+2024-07-23T02:45:44.006Z - debug:  
+2024-07-23T02:45:44.007Z - debug:  
+2024-07-23T02:45:44.008Z - debug:  
+2024-07-23T02:45:44.009Z - debug:  
+2024-07-23T02:45:44.010Z - debug:  
+2024-07-23T02:45:44.011Z - debug:  
+2024-07-23T02:45:44.012Z - debug:  
+2024-07-23T02:45:44.013Z - debug:  
+2024-07-23T02:45:44.013Z - debug:  
+2024-07-23T02:45:44.014Z - debug:  
+2024-07-23T02:45:44.014Z - debug:  
+2024-07-23T02:45:44.015Z - debug:  
+2024-07-23T02:45:44.698Z - debug:  
+2024-07-23T02:45:44.701Z - debug:  
+2024-07-23T02:45:44.703Z - debug:  
+2024-07-23T02:45:49.163Z - debug:  
+2024-07-23T02:45:49.163Z - debug:  
+2024-07-23T02:47:24.317Z - error: Invalid HTML in C:\repos\nus-cs2103\cs2103-website-base\schedule\week5\tutorial.md.
+Table must have a tbody tag. Please correct this to avoid Vue hydration issues.
+
+2024-07-23T02:47:57.961Z - error: Invalid HTML in C:\repos\nus-cs2103\cs2103-website-base\schedule\week4\project.md.
+Table must have a tbody tag. Please correct this to avoid Vue hydration issues.
+
+2024-07-23T02:47:57.962Z - error: Invalid HTML in C:\repos\nus-cs2103\cs2103-website-base\schedule\week4\project.md.
+Table must have a tbody tag. Please correct this to avoid Vue hydration issues.
+
+2024-07-23T02:48:32.466Z - debug:  
+2024-07-23T02:48:56.322Z - debug:  
+2024-07-23T02:48:56.464Z - debug:  
+2024-07-23T02:49:05.056Z - error: Invalid HTML in C:\repos\nus-cs2103\cs2103-website-base\admin\ip-w4.md.
+Table must have a tbody tag. Please correct this to avoid Vue hydration issues.
+
+2024-07-23T02:49:05.057Z - error: Invalid HTML in C:\repos\nus-cs2103\cs2103-website-base\admin\ip-w4.md.
+Table must have a tbody tag. Please correct this to avoid Vue hydration issues.
+
+2024-07-23T02:49:09.260Z - info: Pages built
+2024-07-23T02:49:10.588Z - info: Site data built
+2024-07-23T02:49:10.589Z - info: Website generation complete! Total build time: 263.609s
+2024-07-23T02:49:10.589Z - info: Build success!
+2024-07-23T02:53:21.508Z - info: The website has been deployed at: https://nus-cs2103-ay2425s1.github.io/website
+2024-07-23T02:59:46.003Z - info: Website generation started at 10:59:37 am
+2024-07-23T02:59:53.654Z - info: Building assets...
+2024-07-23T02:59:59.795Z - info: Assets built
+2024-07-23T02:59:59.796Z - info: Generating pages...
+2024-07-23T03:00:17.874Z - debug:  
+2024-07-23T03:00:17.876Z - debug:  
+2024-07-23T03:00:17.878Z - debug:  
+2024-07-23T03:00:18.362Z - debug:  
+2024-07-23T03:00:18.363Z - debug:  
+2024-07-23T03:00:18.364Z - debug:  
+2024-07-23T03:00:19.773Z - debug:  
+2024-07-23T03:00:19.976Z - debug:  
+2024-07-23T03:00:24.578Z - debug:  
+2024-07-23T03:00:24.579Z - debug:  
+2024-07-23T03:00:24.580Z - debug:  
+2024-07-23T03:00:24.580Z - debug:  
+2024-07-23T03:00:24.580Z - debug:  
+2024-07-23T03:00:24.581Z - debug:  
+2024-07-23T03:00:24.581Z - debug:  
+2024-07-23T03:00:24.582Z - debug:  
+2024-07-23T03:00:32.401Z - debug:  
+2024-07-23T03:01:48.100Z - error: Invalid HTML in C:\repos\nus-cs2103\cs2103-website-base\schedule\week4\tutorial.md.
+Table must have a tbody tag. Please correct this to avoid Vue hydration issues.
+
+2024-07-23T03:01:48.101Z - error: Invalid HTML in C:\repos\nus-cs2103\cs2103-website-base\schedule\week4\tutorial.md.
+Table must have a tbody tag. Please correct this to avoid Vue hydration issues.
+
+2024-07-23T03:01:48.586Z - error: Invalid HTML in C:\repos\nus-cs2103\cs2103-website-base\schedule\week11\tutorial.md.
+Table must have a tbody tag. Please correct this to avoid Vue hydration issues.
+
+2024-07-23T03:02:14.189Z - error: Invalid HTML in C:\repos\nus-cs2103\cs2103-website-base\schedule\week4\project.md.
+Table must have a tbody tag. Please correct this to avoid Vue hydration issues.
+
+2024-07-23T03:02:14.189Z - error: Invalid HTML in C:\repos\nus-cs2103\cs2103-website-base\schedule\week4\project.md.
+Table must have a tbody tag. Please correct this to avoid Vue hydration issues.
+
+2024-07-23T03:02:20.172Z - error: Invalid HTML in C:\repos\nus-cs2103\cs2103-website-base\schedule\week11\project.md.
+Table must have a tbody tag. Please correct this to avoid Vue hydration issues.
+
+2024-07-23T03:02:35.471Z - debug:  
+2024-07-23T03:02:47.602Z - error: Invalid HTML in C:\repos\nus-cs2103\cs2103-website-base\admin\tp-w11.md.
+Table must have a tbody tag. Please correct this to avoid Vue hydration issues.
+
+2024-07-23T03:02:51.644Z - debug:  
+2024-07-23T03:02:51.665Z - debug:  
+2024-07-23T03:02:56.470Z - error: Invalid HTML in C:\repos\nus-cs2103\cs2103-website-base\admin\ip-w4.md.
+Table must have a tbody tag. Please correct this to avoid Vue hydration issues.
+
+2024-07-23T03:02:56.471Z - error: Invalid HTML in C:\repos\nus-cs2103\cs2103-website-base\admin\ip-w4.md.
+Table must have a tbody tag. Please correct this to avoid Vue hydration issues.
+
+2024-07-23T03:02:58.670Z - info: Pages built
+2024-07-23T03:02:59.800Z - info: Site data built
+2024-07-23T03:02:59.801Z - info: Website generation complete! Total build time: 202.696s
+2024-07-23T03:02:59.801Z - info: Build success!
+2024-07-23T03:06:23.752Z - info: The website has been deployed at: https://nus-cs2113-ay2425s1.github.io/website
+2024-07-23T03:13:11.044Z - info: Website generation started at 11:13:05 am
+2024-07-23T03:13:18.127Z - info: Building assets...

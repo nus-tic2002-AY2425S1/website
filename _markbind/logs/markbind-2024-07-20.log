@@ -1,0 +1,45 @@
+2024-07-19T16:14:19.664Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\ip-w4 as some of its dependencies were changed since the last visit
+2024-07-19T16:14:20.704Z - error: Invalid HTML in C:\repos\nus-cs2103\cs2103-website-base\admin\ip-w4.md.
+Table must have a tbody tag. Please correct this to avoid Vue hydration issues.
+
+2024-07-19T16:14:20.705Z - error: Invalid HTML in C:\repos\nus-cs2103\cs2103-website-base\admin\ip-w4.md.
+Table must have a tbody tag. Please correct this to avoid Vue hydration issues.
+
+2024-07-19T16:14:20.900Z - info: Site data built
+2024-07-19T16:14:20.900Z - info: Lazy website regeneration complete! Total build time: 1.237s
+2024-07-19T16:14:30.727Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\ip-w3 as some of its dependencies were changed since the last visit
+2024-07-19T16:14:32.231Z - info: Site data built
+2024-07-19T16:14:32.231Z - info: Lazy website regeneration complete! Total build time: 1.504s
+2024-07-19T17:12:38.373Z - info: [1:12:38 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\ip-overview.md
+2024-07-19T17:12:38.374Z - info: Synchronizing opened pages list before reload
+2024-07-19T17:12:38.375Z - info: Current opened pages, from most-to-least recent:
+2024-07-19T17:12:38.376Z - info: 1. admin/ip-w3
+2024-07-19T17:12:39.393Z - info: No pages needed to be rebuilt
+2024-07-19T17:12:42.066Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\ip-overview as some of its dependencies were changed since the last visit
+2024-07-19T17:12:42.440Z - info: Site data built
+2024-07-19T17:12:42.442Z - info: Lazy website regeneration complete! Total build time: 0.375s
+2024-07-19T17:13:04.054Z - info: [1:13:04 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\projectDuke\text.md
+2024-07-19T17:13:04.055Z - info: Synchronizing opened pages list before reload
+2024-07-19T17:13:04.056Z - info: Current opened pages, from most-to-least recent:
+2024-07-19T17:13:04.056Z - info: 1. admin/ip-overview
+2024-07-19T17:13:05.071Z - info: Rebuilding 1 pages
+2024-07-19T17:13:05.297Z - info: Site data built
+2024-07-19T17:13:05.297Z - info: Pages rebuilt
+2024-07-19T17:13:05.298Z - info: Website regeneration complete! Total build time: 0.227s
+2024-07-19T17:15:33.915Z - info: [1:15:33 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\courseExpectations.md
+2024-07-19T17:15:33.916Z - info: Synchronizing opened pages list before reload
+2024-07-19T17:15:33.916Z - info: Current opened pages, from most-to-least recent:
+2024-07-19T17:15:33.916Z - info: 1. admin/ip-overview
+2024-07-19T17:15:34.919Z - info: No pages needed to be rebuilt
+2024-07-19T17:15:43.733Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\courseExpectations as some of its dependencies were changed since the last visit
+2024-07-19T17:15:43.922Z - info: Site data built
+2024-07-19T17:15:43.923Z - info: Lazy website regeneration complete! Total build time: 0.19s
+2024-07-19T17:17:04.467Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\tools as some of its dependencies were changed since the last visit
+2024-07-19T17:17:04.855Z - info: Site data built
+2024-07-19T17:17:04.856Z - info: Lazy website regeneration complete! Total build time: 0.389s
+2024-07-19T17:17:08.167Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\se-book-adapted\index as some of its dependencies were changed since the last visit
+2024-07-19T17:17:08.427Z - info: Site data built
+2024-07-19T17:17:08.427Z - info: Lazy website regeneration complete! Total build time: 0.26s
+2024-07-19T17:17:13.355Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\se-book-adapted\chapters\gitAndGithub as some of its dependencies were changed since the last visit
+2024-07-19T17:17:14.763Z - info: Site data built
+2024-07-19T17:17:14.763Z - info: Lazy website regeneration complete! Total build time: 1.409s
