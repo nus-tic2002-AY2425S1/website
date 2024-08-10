@@ -35,6 +35,6 @@ with(this){return _c('div',{staticClass:"indented-level4"},[_c('p',[_v("↳ The 
 with(this){return _c('div',{staticClass:"indented-level4"},[_c('p',[_v("↳ The code quality guidelines to follow are given "),_c('a',{attrs:{"href":"/website/se-book-adapted/chapters/codeQuality.html"}},[_v("here")]),_v(".")])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.5.2")]),_v(", generated on Wed, 7 Aug 2024, 18:13:20 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.5.2")]),_v(", generated on Sat, 10 Aug 2024, 20:38:55 GMT+8]")])])])}
 }];
   

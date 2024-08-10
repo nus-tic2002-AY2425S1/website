@@ -38,6 +38,6 @@ with(this){return _c('ol',[_c('li',[_c('strong',[_c('em',[_v("Functional require
 with(this){return _c('ol',[_c('li',[_c('strong',[_v("NFRs are easier to miss")]),_v(" "),_c('span',{staticClass:"dimmed"},[_v("e.g., stakeholders tend to think of functional requirements first")])]),_v(" "),_c('li',[_v("sometimes "),_c('strong',[_v("NFRs are critical to the success of the software.")]),_v(" "),_c('span',{staticClass:"dimmed"},[_v("E.g. A web application that is too slow or that has low security is unlikely to succeed even if it has all the right functionality.")])])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.5.2")]),_v(", generated on Wed, 7 Aug 2024, 18:13:20 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.5.2")]),_v(", generated on Sat, 10 Aug 2024, 20:38:55 GMT+8]")])])])}
 }];
   

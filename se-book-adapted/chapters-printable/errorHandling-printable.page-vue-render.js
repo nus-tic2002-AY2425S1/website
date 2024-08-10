@@ -92,6 +92,6 @@ with(this){return _c('p',[_c('strong',[_c('em',[_v("Logging")]),_v(" is the deli
 with(this){return _c('p',[_c('strong',[_c('em',[_v("Logging")]),_v(" can be useful for troubleshooting problems")]),_v(". A good logging system records some system information regularly. When bad things happen to a system "),_c('span',{staticClass:"dimmed"},[_v("e.g. an unanticipated failure")]),_v(", their associated log files may provide indications of what went wrong and actions can then be taken to prevent it from happening again.")])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.5.2")]),_v(", generated on Wed, 7 Aug 2024, 18:13:20 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.5.2")]),_v(", generated on Sat, 10 Aug 2024, 20:38:55 GMT+8]")])])])}
 }];
   

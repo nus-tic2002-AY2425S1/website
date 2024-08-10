@@ -32,6 +32,6 @@ with(this){return _c('ul',[_c('li',[_v("["),_c('a',{attrs:{"href":"/website/sche
 with(this){return _c('div',{staticClass:"col-sm"},[_c('p',[_c('span',[_c('strong',[_c('span',[_c('span',{staticClass:"glyphicon glyphicon-check",attrs:{"aria-hidden":"true"}})])])]),_v(" Tasks Summary:")]),_v(" "),_c('div',[_c('p',[_c('span',[_c('span',{staticClass:"fas fa-drafting-compass",attrs:{"aria-hidden":"true"}})]),_v(" "),_c('strong',[_v("Project:")])]),_v(" "),_c('ol',[_c('li',[_v("Submit the project "),_c('span',{staticClass:"badge bg-danger  font-weight-normal"},[_c('span',[_c('span',{staticClass:"far fa-clock",attrs:{"aria-hidden":"true"}}),_v(" Sunday 2359")])])])])])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.5.2")]),_v(", generated on Wed, 7 Aug 2024, 18:13:20 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.5.2")]),_v(", generated on Sat, 10 Aug 2024, 20:38:55 GMT+8]")])])])}
 }];
   
