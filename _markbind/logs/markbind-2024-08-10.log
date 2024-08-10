@@ -1090,3 +1090,375 @@ Table must have a tbody tag. Please correct this to avoid Vue hydration issues.
 2024-08-10T13:38:26.710Z - info: Lazy website regeneration complete! Total build time: 0.666s
 2024-08-10T13:40:37.088Z - info: Website generation started at 9:40:13 pm
 2024-08-10T13:40:50.409Z - info: Building assets...
+2024-08-10T13:40:58.026Z - info: Assets built
+2024-08-10T13:40:58.028Z - info: Generating pages...
+2024-08-10T13:41:25.380Z - debug:  
+2024-08-10T13:41:28.508Z - debug:  
+2024-08-10T13:41:28.509Z - debug:  
+2024-08-10T13:41:28.510Z - debug:  
+2024-08-10T13:41:28.510Z - debug:  
+2024-08-10T13:41:28.511Z - debug:  
+2024-08-10T13:41:28.511Z - debug:  
+2024-08-10T13:41:28.511Z - debug:  
+2024-08-10T13:41:28.511Z - debug:  
+2024-08-10T13:41:28.512Z - debug:  
+2024-08-10T13:41:28.512Z - debug:  
+2024-08-10T13:41:28.512Z - debug:  
+2024-08-10T13:41:28.513Z - debug:  
+2024-08-10T13:41:28.513Z - debug:  
+2024-08-10T13:41:28.513Z - debug:  
+2024-08-10T13:41:34.146Z - debug:  
+2024-08-10T13:42:12.895Z - debug:  
+2024-08-10T13:43:34.447Z - info: Pages built
+2024-08-10T13:43:36.261Z - info: Site data built
+2024-08-10T13:43:36.261Z - info: Website generation complete! Total build time: 202.701s
+2024-08-10T13:43:36.262Z - info: Build success!
+2024-08-10T13:48:50.784Z - info: The website has been deployed at: https://nus-tic2002-ay2425s1.github.io/website
+2024-08-10T13:52:45.967Z - info: Website generation (lazy) started at 9:52:38 pm
+2024-08-10T13:52:56.553Z - warn: ENOENT: no such file or directory, open 'C:\repos\nus-cs2103\cs2103-website-base\cache\gh-pages\https!github.com!nus-tic2002-AY2425S1!website.git\book\_markbind\variables.md'
+2024-08-10T13:52:56.555Z - warn: ENOENT: no such file or directory, open 'C:\repos\nus-cs2103\cs2103-website-base\cache\gh-pages\https!github.com!nus-tic2002-AY2425S1!website.git\_markbind\variables.md'
+2024-08-10T13:52:56.639Z - info: Building assets...
+2024-08-10T13:53:48.041Z - info: Assets built
+2024-08-10T13:53:48.042Z - info: Generating landing page...
+2024-08-10T13:53:50.806Z - info: Landing page built, other pages will be built as you navigate to them!
+2024-08-10T13:53:52.503Z - info: Site data built
+2024-08-10T13:53:52.504Z - info: Website generation (lazy) complete! Total build time: 74.346s
+2024-08-10T13:53:52.591Z - info: Serving "C:\repos\nus-cs2103\cs2103-website-base\_site" at http://127.0.0.1:8080
+2024-08-10T13:53:52.592Z - info: Press CTRL+C to stop ...
+2024-08-10T13:55:55.438Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week1\index as some of its dependencies were changed since the last visit
+2024-08-10T13:55:56.124Z - info: Site data built
+2024-08-10T13:55:56.124Z - info: Lazy website regeneration complete! Total build time: 0.687s
+2024-08-10T13:56:02.765Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week1\topics-py as some of its dependencies were changed since the last visit
+2024-08-10T13:56:03.397Z - info: Site data built
+2024-08-10T13:56:03.397Z - info: Lazy website regeneration complete! Total build time: 0.633s
+2024-08-10T14:17:30.983Z - info: [10:17:30 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\programming\scripts\text.md
+2024-08-10T14:17:30.984Z - info: Synchronizing opened pages list before reload
+2024-08-10T14:17:30.985Z - info: Current opened pages, from most-to-least recent:
+2024-08-10T14:17:30.986Z - info: 1. schedule/week1/topics-py
+2024-08-10T14:17:31.995Z - info: Rebuilding 1 pages
+2024-08-10T14:17:32.686Z - info: Site data built
+2024-08-10T14:17:32.687Z - info: Pages rebuilt
+2024-08-10T14:17:32.687Z - info: Website regeneration complete! Total build time: 0.694s
+2024-08-10T14:17:38.745Z - info: [10:17:38 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\programming\scripts\text.md
+2024-08-10T14:17:38.746Z - info: Synchronizing opened pages list before reload
+2024-08-10T14:17:38.747Z - info: Current opened pages, from most-to-least recent:
+2024-08-10T14:17:38.747Z - info: 1. schedule/week1/topics-py
+2024-08-10T14:17:39.767Z - info: Rebuilding 1 pages
+2024-08-10T14:17:40.357Z - info: Site data built
+2024-08-10T14:17:40.357Z - info: Pages rebuilt
+2024-08-10T14:17:40.357Z - info: Website regeneration complete! Total build time: 0.593s
+2024-08-10T14:21:21.501Z - info: [10:21:21 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\programming\scripts\text.md
+2024-08-10T14:21:21.501Z - info: Synchronizing opened pages list before reload
+2024-08-10T14:21:21.502Z - info: Current opened pages, from most-to-least recent:
+2024-08-10T14:21:21.502Z - info: 1. schedule/week1/topics-py
+2024-08-10T14:21:21.523Z - info: [10:21:21 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\common\macros.njk
+2024-08-10T14:21:21.524Z - info: Synchronizing opened pages list before reload
+2024-08-10T14:21:21.524Z - info: Current opened pages, from most-to-least recent:
+2024-08-10T14:21:21.524Z - info: 1. schedule/week1/topics-py
+2024-08-10T14:21:22.694Z - info: Rebuilding 1 pages
+2024-08-10T14:21:23.202Z - info: Site data built
+2024-08-10T14:21:23.203Z - info: Pages rebuilt
+2024-08-10T14:21:23.203Z - info: Website regeneration complete! Total build time: 0.51s
+2024-08-10T14:23:51.054Z - info: [10:23:51 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\programming\scripts\text.md
+2024-08-10T14:23:51.054Z - info: Synchronizing opened pages list before reload
+2024-08-10T14:23:51.054Z - info: Current opened pages, from most-to-least recent:
+2024-08-10T14:23:51.055Z - info: 1. schedule/week1/topics-py
+2024-08-10T14:23:52.069Z - info: Rebuilding 1 pages
+2024-08-10T14:23:52.599Z - info: Site data built
+2024-08-10T14:23:52.600Z - info: Pages rebuilt
+2024-08-10T14:23:52.600Z - info: Website regeneration complete! Total build time: 0.532s
+2024-08-10T14:24:22.784Z - info: [10:24:22 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\programming\scripts\text.md
+2024-08-10T14:24:22.785Z - info: Synchronizing opened pages list before reload
+2024-08-10T14:24:22.785Z - info: Current opened pages, from most-to-least recent:
+2024-08-10T14:24:22.785Z - info: 1. schedule/week1/topics-py
+2024-08-10T14:24:23.795Z - info: Rebuilding 1 pages
+2024-08-10T14:24:24.645Z - info: Site data built
+2024-08-10T14:24:24.646Z - info: Pages rebuilt
+2024-08-10T14:24:24.646Z - info: Website regeneration complete! Total build time: 0.851s
+2024-08-10T14:25:48.332Z - info: [10:25:48 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\programming\usingFunctions\text.md
+2024-08-10T14:25:48.332Z - info: Synchronizing opened pages list before reload
+2024-08-10T14:25:48.333Z - info: Current opened pages, from most-to-least recent:
+2024-08-10T14:25:48.333Z - info: 1. schedule/week1/topics-py
+2024-08-10T14:25:49.339Z - info: Rebuilding 1 pages
+2024-08-10T14:25:49.851Z - info: Site data built
+2024-08-10T14:25:49.852Z - info: Pages rebuilt
+2024-08-10T14:25:49.852Z - info: Website regeneration complete! Total build time: 0.514s
+2024-08-10T14:28:23.362Z - info: [10:28:23 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\programming\usingFunctions\text.md
+2024-08-10T14:28:23.363Z - info: Synchronizing opened pages list before reload
+2024-08-10T14:28:23.363Z - info: Current opened pages, from most-to-least recent:
+2024-08-10T14:28:23.364Z - info: 1. schedule/week1/topics-py
+2024-08-10T14:28:24.382Z - info: Rebuilding 1 pages
+2024-08-10T14:28:24.973Z - info: Site data built
+2024-08-10T14:28:24.974Z - info: Pages rebuilt
+2024-08-10T14:28:24.974Z - info: Website regeneration complete! Total build time: 0.593s
+2024-08-10T14:29:44.567Z - info: [10:29:44 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\programming\usingFunctions\text.md
+2024-08-10T14:29:44.567Z - info: Synchronizing opened pages list before reload
+2024-08-10T14:29:44.567Z - info: Current opened pages, from most-to-least recent:
+2024-08-10T14:29:44.568Z - info: 1. schedule/week1/topics-py
+2024-08-10T14:29:45.577Z - info: Rebuilding 1 pages
+2024-08-10T14:29:46.105Z - info: Site data built
+2024-08-10T14:29:46.106Z - info: Pages rebuilt
+2024-08-10T14:29:46.106Z - info: Website regeneration complete! Total build time: 0.53s
+2024-08-10T14:29:58.750Z - info: [10:29:58 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\programming\usingFunctions\text.md
+2024-08-10T14:29:58.751Z - info: Synchronizing opened pages list before reload
+2024-08-10T14:29:58.752Z - info: Current opened pages, from most-to-least recent:
+2024-08-10T14:29:58.752Z - info: 1. schedule/week1/topics-py
+2024-08-10T14:29:59.757Z - info: Rebuilding 1 pages
+2024-08-10T14:30:00.457Z - info: Site data built
+2024-08-10T14:30:00.458Z - info: Pages rebuilt
+2024-08-10T14:30:00.458Z - info: Website regeneration complete! Total build time: 0.702s
+2024-08-10T14:30:57.198Z - info: [10:30:57 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\schedule\index.md
+2024-08-10T14:30:57.199Z - info: Synchronizing opened pages list before reload
+2024-08-10T14:30:57.200Z - info: Current opened pages, from most-to-least recent:
+2024-08-10T14:30:57.200Z - info: 1. schedule/week1/topics-py
+2024-08-10T14:30:58.221Z - info: Rebuilding 1 pages
+2024-08-10T14:30:58.818Z - info: Site data built
+2024-08-10T14:30:58.819Z - info: Pages rebuilt
+2024-08-10T14:30:58.819Z - info: Website regeneration complete! Total build time: 0.599s
+2024-08-10T14:31:03.430Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week1\topics as some of its dependencies were changed since the last visit
+2024-08-10T14:31:03.880Z - info: Site data built
+2024-08-10T14:31:03.880Z - info: Lazy website regeneration complete! Total build time: 0.45s
+2024-08-10T14:31:23.354Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week1\admin as some of its dependencies were changed since the last visit
+2024-08-10T14:31:24.507Z - info: Site data built
+2024-08-10T14:31:24.508Z - info: Lazy website regeneration complete! Total build time: 1.155s
+2024-08-10T14:32:28.997Z - info: [10:32:28 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\schedule\week1\admin-tee3201-fragment.md
+2024-08-10T14:32:28.998Z - info: Synchronizing opened pages list before reload
+2024-08-10T14:32:28.998Z - info: Current opened pages, from most-to-least recent:
+2024-08-10T14:32:28.999Z - info: 1. schedule/week1/admin
+2024-08-10T14:32:30.019Z - info: Rebuilding 1 pages
+2024-08-10T14:32:30.792Z - info: Site data built
+2024-08-10T14:32:30.792Z - info: Pages rebuilt
+2024-08-10T14:32:30.792Z - info: Website regeneration complete! Total build time: 0.775s
+2024-08-10T15:04:00.611Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\programming\chapters\monty as some of its dependencies were changed since the last visit
+2024-08-10T15:04:01.427Z - info: Site data built
+2024-08-10T15:04:01.427Z - info: Lazy website regeneration complete! Total build time: 0.817s
+2024-08-10T15:05:37.553Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week2\index as some of its dependencies were changed since the last visit
+2024-08-10T15:05:38.054Z - info: Site data built
+2024-08-10T15:05:38.054Z - info: Lazy website regeneration complete! Total build time: 0.502s
+2024-08-10T15:05:58.608Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week2\topics-py as some of its dependencies were changed since the last visit
+2024-08-10T15:05:59.610Z - info: Site data built
+2024-08-10T15:05:59.611Z - info: Lazy website regeneration complete! Total build time: 1.004s
+2024-08-10T15:08:28.616Z - info: [11:08:28 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\programming\if\text.md
+2024-08-10T15:08:28.617Z - info: Synchronizing opened pages list before reload
+2024-08-10T15:08:28.617Z - info: Current opened pages, from most-to-least recent:
+2024-08-10T15:08:28.618Z - info: 1. schedule/week2/topics-py
+2024-08-10T15:08:29.627Z - info: Rebuilding 1 pages
+2024-08-10T15:08:30.472Z - info: Site data built
+2024-08-10T15:08:30.473Z - info: Pages rebuilt
+2024-08-10T15:08:30.473Z - info: Website regeneration complete! Total build time: 0.848s
+2024-08-10T15:10:26.834Z - info: [11:10:26 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\programming\if\text.md
+2024-08-10T15:10:26.835Z - info: Synchronizing opened pages list before reload
+2024-08-10T15:10:26.835Z - info: Current opened pages, from most-to-least recent:
+2024-08-10T15:10:26.835Z - info: 1. schedule/week2/topics-py
+2024-08-10T15:10:27.845Z - info: Rebuilding 1 pages
+2024-08-10T15:10:28.663Z - info: Site data built
+2024-08-10T15:10:28.664Z - info: Pages rebuilt
+2024-08-10T15:10:28.664Z - info: Website regeneration complete! Total build time: 0.82s
+2024-08-10T15:10:46.516Z - info: [11:10:46 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\programming\if\text.md
+2024-08-10T15:10:46.516Z - info: Synchronizing opened pages list before reload
+2024-08-10T15:10:46.516Z - info: Current opened pages, from most-to-least recent:
+2024-08-10T15:10:46.516Z - info: 1. schedule/week2/topics-py
+2024-08-10T15:10:47.530Z - info: Rebuilding 1 pages
+2024-08-10T15:10:48.222Z - info: Site data built
+2024-08-10T15:10:48.223Z - info: Pages rebuilt
+2024-08-10T15:10:48.223Z - info: Website regeneration complete! Total build time: 0.695s
+2024-08-10T15:12:37.005Z - info: [11:12:37 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\programming\while\text.md
+2024-08-10T15:12:37.006Z - info: Synchronizing opened pages list before reload
+2024-08-10T15:12:37.006Z - info: Current opened pages, from most-to-least recent:
+2024-08-10T15:12:37.007Z - info: 1. schedule/week2/topics-py
+2024-08-10T15:12:38.023Z - info: Rebuilding 1 pages
+2024-08-10T15:12:38.780Z - info: Site data built
+2024-08-10T15:12:38.781Z - info: Pages rebuilt
+2024-08-10T15:12:38.781Z - info: Website regeneration complete! Total build time: 0.759s
+2024-08-10T15:14:25.250Z - info: [11:14:25 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\programming\while\text.md
+2024-08-10T15:14:25.251Z - info: Synchronizing opened pages list before reload
+2024-08-10T15:14:25.251Z - info: Current opened pages, from most-to-least recent:
+2024-08-10T15:14:25.251Z - info: 1. schedule/week2/topics-py
+2024-08-10T15:14:26.258Z - info: Rebuilding 1 pages
+2024-08-10T15:14:26.971Z - info: Site data built
+2024-08-10T15:14:26.972Z - info: Pages rebuilt
+2024-08-10T15:14:26.972Z - info: Website regeneration complete! Total build time: 0.715s
+2024-08-10T15:15:52.184Z - info: [11:15:52 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\programming\while\text.md
+2024-08-10T15:15:52.185Z - info: Synchronizing opened pages list before reload
+2024-08-10T15:15:52.185Z - info: Current opened pages, from most-to-least recent:
+2024-08-10T15:15:52.185Z - info: 1. schedule/week2/topics-py
+2024-08-10T15:15:53.196Z - info: Rebuilding 1 pages
+2024-08-10T15:15:53.939Z - info: Site data built
+2024-08-10T15:15:53.939Z - info: Pages rebuilt
+2024-08-10T15:15:53.939Z - info: Website regeneration complete! Total build time: 0.745s
+2024-08-10T15:16:30.801Z - info: [11:16:30 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\programming\for\text.md
+2024-08-10T15:16:30.802Z - info: Synchronizing opened pages list before reload
+2024-08-10T15:16:30.802Z - info: Current opened pages, from most-to-least recent:
+2024-08-10T15:16:30.802Z - info: 1. schedule/week2/topics-py
+2024-08-10T15:16:31.806Z - info: Rebuilding 1 pages
+2024-08-10T15:16:32.385Z - info: Site data built
+2024-08-10T15:16:32.385Z - info: Pages rebuilt
+2024-08-10T15:16:32.385Z - info: Website regeneration complete! Total build time: 0.579s
+2024-08-10T15:17:24.597Z - info: [11:17:24 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\programming\for\text.md
+2024-08-10T15:17:24.598Z - info: Synchronizing opened pages list before reload
+2024-08-10T15:17:24.598Z - info: Current opened pages, from most-to-least recent:
+2024-08-10T15:17:24.599Z - info: 1. schedule/week2/topics-py
+2024-08-10T15:17:25.608Z - info: Rebuilding 1 pages
+2024-08-10T15:17:26.346Z - info: Site data built
+2024-08-10T15:17:26.346Z - info: Pages rebuilt
+2024-08-10T15:17:26.347Z - info: Website regeneration complete! Total build time: 0.739s
+2024-08-10T15:18:46.124Z - info: [11:18:46 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\programming\for\text.md
+2024-08-10T15:18:46.124Z - info: Synchronizing opened pages list before reload
+2024-08-10T15:18:46.125Z - info: Current opened pages, from most-to-least recent:
+2024-08-10T15:18:46.126Z - info: 1. schedule/week2/topics-py
+2024-08-10T15:18:47.134Z - info: Rebuilding 1 pages
+2024-08-10T15:18:47.783Z - info: Site data built
+2024-08-10T15:18:47.784Z - info: Pages rebuilt
+2024-08-10T15:18:47.784Z - info: Website regeneration complete! Total build time: 0.651s
+2024-08-10T15:19:02.208Z - info: [11:19:02 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\programming\for\text.md
+2024-08-10T15:19:02.209Z - info: Synchronizing opened pages list before reload
+2024-08-10T15:19:02.209Z - info: Current opened pages, from most-to-least recent:
+2024-08-10T15:19:02.210Z - info: 1. schedule/week2/topics-py
+2024-08-10T15:19:03.221Z - info: Rebuilding 1 pages
+2024-08-10T15:19:03.963Z - info: Site data built
+2024-08-10T15:19:03.964Z - info: Pages rebuilt
+2024-08-10T15:19:03.964Z - info: Website regeneration complete! Total build time: 0.743s
+2024-08-10T15:20:10.081Z - info: [11:20:10 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\programming\for\text.md
+2024-08-10T15:20:10.082Z - info: Synchronizing opened pages list before reload
+2024-08-10T15:20:10.082Z - info: Current opened pages, from most-to-least recent:
+2024-08-10T15:20:10.082Z - info: 1. schedule/week2/topics-py
+2024-08-10T15:20:11.099Z - info: Rebuilding 1 pages
+2024-08-10T15:20:11.766Z - info: Site data built
+2024-08-10T15:20:11.767Z - info: Pages rebuilt
+2024-08-10T15:20:11.767Z - info: Website regeneration complete! Total build time: 0.67s
+2024-08-10T15:20:46.104Z - info: [11:20:46 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\programming\import\text.md
+2024-08-10T15:20:46.104Z - info: Synchronizing opened pages list before reload
+2024-08-10T15:20:46.105Z - info: Current opened pages, from most-to-least recent:
+2024-08-10T15:20:46.105Z - info: 1. schedule/week2/topics-py
+2024-08-10T15:20:47.122Z - info: Rebuilding 1 pages
+2024-08-10T15:20:47.810Z - info: Site data built
+2024-08-10T15:20:47.810Z - info: Pages rebuilt
+2024-08-10T15:20:47.811Z - info: Website regeneration complete! Total build time: 0.69s
+2024-08-10T15:21:38.335Z - info: [11:21:38 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\programming\import\text.md
+2024-08-10T15:21:38.335Z - info: Synchronizing opened pages list before reload
+2024-08-10T15:21:38.335Z - info: Current opened pages, from most-to-least recent:
+2024-08-10T15:21:38.335Z - info: 1. schedule/week2/topics-py
+2024-08-10T15:21:39.352Z - info: Rebuilding 1 pages
+2024-08-10T15:21:39.991Z - info: Site data built
+2024-08-10T15:21:39.992Z - info: Pages rebuilt
+2024-08-10T15:21:39.992Z - info: Website regeneration complete! Total build time: 0.642s
+2024-08-10T15:24:19.219Z - info: [11:24:19 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\programming\exit\text.md
+2024-08-10T15:24:19.219Z - info: Synchronizing opened pages list before reload
+2024-08-10T15:24:19.220Z - info: Current opened pages, from most-to-least recent:
+2024-08-10T15:24:19.220Z - info: 1. schedule/week2/topics-py
+2024-08-10T15:24:20.228Z - info: Rebuilding 1 pages
+2024-08-10T15:24:20.952Z - info: Site data built
+2024-08-10T15:24:20.953Z - info: Pages rebuilt
+2024-08-10T15:24:20.953Z - info: Website regeneration complete! Total build time: 0.726s
+2024-08-10T15:25:25.390Z - info: [11:25:25 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\programming\exit\text.md
+2024-08-10T15:25:25.390Z - info: Synchronizing opened pages list before reload
+2024-08-10T15:25:25.392Z - info: Current opened pages, from most-to-least recent:
+2024-08-10T15:25:25.393Z - info: 1. schedule/week2/topics-py
+2024-08-10T15:25:25.421Z - info: [11:25:25 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\common\macros.njk
+2024-08-10T15:25:25.421Z - info: Synchronizing opened pages list before reload
+2024-08-10T15:25:25.421Z - info: Current opened pages, from most-to-least recent:
+2024-08-10T15:25:25.422Z - info: 1. schedule/week2/topics-py
+2024-08-10T15:25:26.540Z - info: Rebuilding 1 pages
+2024-08-10T15:25:27.204Z - info: Site data built
+2024-08-10T15:25:27.205Z - info: Pages rebuilt
+2024-08-10T15:25:27.205Z - info: Website regeneration complete! Total build time: 0.666s
+2024-08-10T15:27:35.528Z - info: [11:27:35 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\programming\while\text.md
+2024-08-10T15:27:35.529Z - info: Synchronizing opened pages list before reload
+2024-08-10T15:27:35.529Z - info: Current opened pages, from most-to-least recent:
+2024-08-10T15:27:35.530Z - info: 1. schedule/week2/topics-py
+2024-08-10T15:27:35.558Z - info: [11:27:35 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\programming\usingFunctions\text.md
+2024-08-10T15:27:35.558Z - info: Synchronizing opened pages list before reload
+2024-08-10T15:27:35.558Z - info: Current opened pages, from most-to-least recent:
+2024-08-10T15:27:35.558Z - info: 1. schedule/week2/topics-py
+2024-08-10T15:27:35.587Z - info: [11:27:35 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\programming\if\text.md
+2024-08-10T15:27:35.587Z - info: Synchronizing opened pages list before reload
+2024-08-10T15:27:35.588Z - info: Current opened pages, from most-to-least recent:
+2024-08-10T15:27:35.588Z - info: 1. schedule/week2/topics-py
+2024-08-10T15:27:35.608Z - info: [11:27:35 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\programming\import\text.md
+2024-08-10T15:27:35.608Z - info: Synchronizing opened pages list before reload
+2024-08-10T15:27:35.608Z - info: Current opened pages, from most-to-least recent:
+2024-08-10T15:27:35.609Z - info: 1. schedule/week2/topics-py
+2024-08-10T15:27:35.623Z - info: [11:27:35 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\programming\for\text.md
+2024-08-10T15:27:35.623Z - info: Synchronizing opened pages list before reload
+2024-08-10T15:27:35.624Z - info: Current opened pages, from most-to-least recent:
+2024-08-10T15:27:35.624Z - info: 1. schedule/week2/topics-py
+2024-08-10T15:27:36.539Z - info: Rebuilding 1 pages
+2024-08-10T15:27:37.431Z - info: Site data built
+2024-08-10T15:27:37.432Z - info: Pages rebuilt
+2024-08-10T15:27:37.432Z - info: Website regeneration complete! Total build time: 0.894s
+2024-08-10T15:27:47.243Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week1\topics-py as some of its dependencies were changed since the last visit
+2024-08-10T15:27:47.688Z - info: Site data built
+2024-08-10T15:27:47.689Z - info: Lazy website regeneration complete! Total build time: 0.447s
+2024-08-10T15:29:21.804Z - info: [11:29:21 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\programming\scripts\text.md
+2024-08-10T15:29:21.804Z - info: Synchronizing opened pages list before reload
+2024-08-10T15:29:21.805Z - info: Current opened pages, from most-to-least recent:
+2024-08-10T15:29:21.805Z - info: 1. schedule/week1/topics-py
+2024-08-10T15:29:21.832Z - info: [11:29:21 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\common\macros.njk
+2024-08-10T15:29:21.832Z - info: Synchronizing opened pages list before reload
+2024-08-10T15:29:21.832Z - info: Current opened pages, from most-to-least recent:
+2024-08-10T15:29:21.833Z - info: 1. schedule/week1/topics-py
+2024-08-10T15:29:22.963Z - info: Rebuilding 1 pages
+2024-08-10T15:29:23.328Z - info: Site data built
+2024-08-10T15:29:23.328Z - info: Pages rebuilt
+2024-08-10T15:29:23.329Z - info: Website regeneration complete! Total build time: 0.365s
+2024-08-10T15:29:51.264Z - info: [11:29:51 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\common\macros.njk
+2024-08-10T15:29:51.265Z - info: Synchronizing opened pages list before reload
+2024-08-10T15:29:51.265Z - info: Current opened pages, from most-to-least recent:
+2024-08-10T15:29:51.265Z - info: 1. schedule/week1/topics-py
+2024-08-10T15:29:52.450Z - info: Rebuilding 1 pages
+2024-08-10T15:29:52.867Z - info: Site data built
+2024-08-10T15:29:52.868Z - info: Pages rebuilt
+2024-08-10T15:29:52.868Z - info: Website regeneration complete! Total build time: 0.419s
+2024-08-10T15:30:29.057Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\se-book-adapted\index as some of its dependencies were changed since the last visit
+2024-08-10T15:30:29.271Z - info: Site data built
+2024-08-10T15:30:29.272Z - info: Lazy website regeneration complete! Total build time: 0.214s
+2024-08-10T15:30:32.770Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\se-book-adapted\print as some of its dependencies were changed since the last visit
+2024-08-10T15:30:46.905Z - debug:  
+2024-08-10T15:30:47.007Z - debug:  
+2024-08-10T15:30:47.128Z - debug:  
+2024-08-10T15:30:47.203Z - debug:  
+2024-08-10T15:30:47.230Z - debug:  
+2024-08-10T15:30:47.336Z - debug:  
+2024-08-10T15:30:47.393Z - debug:  
+2024-08-10T15:30:47.412Z - debug:  
+2024-08-10T15:30:47.425Z - debug:  
+2024-08-10T15:30:47.443Z - debug:  
+2024-08-10T15:30:47.484Z - debug:  
+2024-08-10T15:30:47.508Z - debug:  
+2024-08-10T15:30:48.343Z - info: Site data built
+2024-08-10T15:30:48.351Z - info: Lazy website regeneration complete! Total build time: 15.575s
+2024-08-10T15:38:08.657Z - info: [11:38:08 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\uml\classDiagrams\classInheritance\what\text.md
+2024-08-10T15:38:08.657Z - info: Synchronizing opened pages list before reload
+2024-08-10T15:38:08.658Z - info: Current opened pages, from most-to-least recent:
+2024-08-10T15:38:08.658Z - info: 1. se-book-adapted/print
+2024-08-10T15:38:08.658Z - info: 2. se-book-adapted/index
+2024-08-10T15:38:09.666Z - info: Rebuilding 1 pages
+2024-08-10T15:38:11.836Z - info: Site data built
+2024-08-10T15:38:11.836Z - info: Pages rebuilt
+2024-08-10T15:38:11.836Z - info: Website regeneration complete! Total build time: 2.173s
+2024-08-10T15:40:31.968Z - info: Website generation started at 11:40:13 pm
+2024-08-10T15:40:42.090Z - info: Building assets...
+2024-08-10T15:40:48.877Z - info: Assets built
+2024-08-10T15:40:48.878Z - info: Generating pages...
+2024-08-10T15:41:04.115Z - debug:  
+2024-08-10T15:41:04.118Z - debug:  
+2024-08-10T15:41:04.120Z - debug:  
+2024-08-10T15:41:04.122Z - debug:  
+2024-08-10T15:41:04.452Z - debug:  
+2024-08-10T15:41:04.660Z - debug:  
+2024-08-10T15:41:04.691Z - debug:  
+2024-08-10T15:41:05.064Z - debug:  
+2024-08-10T15:41:05.270Z - debug:  
+2024-08-10T15:41:05.290Z - debug:  
+2024-08-10T15:41:05.324Z - debug:  
+2024-08-10T15:41:05.583Z - debug:  
+2024-08-10T15:41:15.070Z - debug:  
+2024-08-10T15:41:15.147Z - debug:  
+2024-08-10T15:41:19.168Z - debug:  
+2024-08-10T15:41:38.676Z - debug:  
+2024-08-10T15:42:00.558Z - debug:  
+2024-08-10T15:42:54.702Z - info: Pages built
+2024-08-10T15:42:56.047Z - info: Site data built
+2024-08-10T15:42:56.047Z - info: Website generation complete! Total build time: 162.192s
+2024-08-10T15:42:56.047Z - info: Build success!
+2024-08-10T15:46:10.049Z - info: The website has been deployed at: https://nus-tee3201.github.io/2024

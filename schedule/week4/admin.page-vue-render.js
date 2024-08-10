@@ -32,6 +32,6 @@ with(this){return _c('ul',[_c('li',[_c('strong',[_v("Create a pull request (PR)"
 with(this){return _c('ul',[_c('li',[_c('strong',[_v("As before, implement these increments")]),_v(" while committing at regular intervals, and tag + push to your fork when an increment is done. Your PR will update automatically to reflect the new commits. "),_c('mark',[_v("Follow the same procedure for future Duke increments too.")])])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.5.2")]),_v(", generated on Sat, 10 Aug 2024, 21:40:58 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.5.2")]),_v(", generated on Sun, 11 Aug 2024, 0:23:44 GMT+8]")])])])}
 }];
   

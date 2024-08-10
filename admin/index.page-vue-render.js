@@ -230,7 +230,7 @@ with(this){return _c('p',[_v("Install Zoom in your computer. Installation and lo
 with(this){return _c('h3',{attrs:{"id":"microsoft-teams-mst"}},[_v("Microsoft Teams (MST)"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#microsoft-teams-mst","onclick":"event.stopPropagation()"}})])}
 },function anonymous(
 ) {
-with(this){return _c('p',[_v("Install MST in your computer. Installation and login instructions are "),_c('a',{attrs:{"href":"https://wiki.nus.edu.sg/pages/viewpage.action?spaceKey=THES&title=Before+exams+-+Install+and+log+in+to+Microsoft+Teams"}},[_v("here")]),_v(" (requires login)."),_c('br'),_v("\nWhen using MST, remember to login using your NUSNET account.")])}
+with(this){return _c('p',[_v("Install MST in your computer. Installation and login instructions are "),_c('a',{attrs:{"href":"https://wiki.nus.edu.sg/pages/viewpage.action?spaceKey=THES&title=Before+exams+-+Install+and+log+in+to+Microsoft+Teams"}},[_v("here")]),_v(" (requires login)."),_c('br'),_v("\nWhen using MST, remember to log in using your NUSNET account.")])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_v("The MST team used for the class is "),_c('code',{pre:true,attrs:{"class":"line-numbers hljs inline no-lang"}},[_v("TIC2002-2024 Aug-Nov")]),_v(" ("),_c('a',{attrs:{"href":"https://teams.microsoft.com/l/team/19%3ASfLcFt1GCUrUJLitWvmai5oRau6MNItq3D2-QMtUEOU1%40thread.tacv2/conversations?groupId=701da5dc-d1ef-479a-9a52-7c9b98b730a5&tenantId=5ba5ef5e-3109-4e77-85bd-cfeb0d347e82"}},[_v("link")]),_v(").")])}
@@ -311,6 +311,6 @@ with(this){return _c('h2',{attrs:{"id":"final-exam-part-2-essay"}},[_v("Final Ex
 with(this){return _c('ul',[_c('li',[_v("Some examples of the nature of questions you can expect:\n"),_c('ul',[_c('li',[_v("Draw UML diagrams to match the given code/description")]),_v(" "),_c('li',[_v("Specify requirements for a given project using various formats covered in the course")]),_v(" "),_c('li',[_v("Review a given piece of Java code to identify areas to improve (e.g., detect coding standard violations)")])])]),_v(" "),_c('li',[_c('strong',[_v("Yes, you may use pencils")]),_v(" when answering part 2.")]),_v(" "),_c('li',[_v("If you have any queries during this part of the exam, you may ask the invigilator for clarifications.")])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.5.2")]),_v(", generated on Sat, 10 Aug 2024, 21:40:58 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.5.2")]),_v(", generated on Sun, 11 Aug 2024, 0:23:44 GMT+8]")])])])}
 }];
   
