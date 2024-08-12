@@ -186,3 +186,95 @@ Table must have a tbody tag. Please correct this to avoid Vue hydration issues.
 2024-08-11T05:03:20.576Z - info: Website regeneration complete! Total build time: 1.588s
 2024-08-11T05:04:08.461Z - info: Website generation started at 1:03:51 pm
 2024-08-11T05:04:16.571Z - info: Building assets...
+2024-08-11T05:04:22.830Z - info: Assets built
+2024-08-11T05:04:22.831Z - info: Generating pages...
+2024-08-11T05:04:45.662Z - debug:  
+2024-08-11T05:04:45.665Z - debug:  
+2024-08-11T05:04:45.667Z - debug:  
+2024-08-11T05:04:45.667Z - debug:  
+2024-08-11T05:04:45.936Z - debug:  
+2024-08-11T05:04:48.023Z - debug:  
+2024-08-11T05:04:48.023Z - debug:  
+2024-08-11T05:04:48.024Z - debug:  
+2024-08-11T05:04:48.024Z - debug:  
+2024-08-11T05:04:48.024Z - debug:  
+2024-08-11T05:04:48.029Z - debug:  
+2024-08-11T05:04:48.029Z - debug:  
+2024-08-11T05:04:48.030Z - debug:  
+2024-08-11T05:04:48.030Z - debug:  
+2024-08-11T05:04:48.030Z - debug:  
+2024-08-11T05:04:52.844Z - debug:  
+2024-08-11T05:05:27.852Z - debug:  
+2024-08-11T05:06:31.204Z - info: Pages built
+2024-08-11T05:06:32.317Z - info: Site data built
+2024-08-11T05:06:32.317Z - info: Website generation complete! Total build time: 160.643s
+2024-08-11T05:06:32.317Z - info: Build success!
+2024-08-11T05:09:21.194Z - info: The website has been deployed at: https://nus-tic2002-ay2425s1.github.io/website
+2024-08-11T05:47:35.864Z - info: Website generation (lazy) started at 1:47:28 pm
+2024-08-11T05:47:43.931Z - info: Building assets...
+2024-08-11T05:47:49.624Z - info: Assets built
+2024-08-11T05:47:49.625Z - info: Generating landing page...
+2024-08-11T05:47:51.424Z - info: Landing page built, other pages will be built as you navigate to them!
+2024-08-11T05:47:52.633Z - info: Site data built
+2024-08-11T05:47:52.634Z - info: Website generation (lazy) complete! Total build time: 24.15s
+2024-08-11T05:47:52.680Z - info: Serving "C:\repos\nus-cs2103\cs2103-website-base\_site" at http://127.0.0.1:8080
+2024-08-11T05:47:52.681Z - info: Press CTRL+C to stop ...
+2024-08-11T05:48:46.798Z - info: Website generation started at 1:48:44 pm
+2024-08-11T05:48:53.879Z - info: Building assets...
+2024-08-11T05:48:58.788Z - info: Assets built
+2024-08-11T05:48:58.789Z - info: Generating pages...
+2024-08-11T05:49:12.881Z - debug:  
+2024-08-11T05:49:12.933Z - debug:  
+2024-08-11T05:49:12.996Z - debug:  
+2024-08-11T05:49:13.026Z - debug:  
+2024-08-11T05:49:13.079Z - debug:  
+2024-08-11T05:49:13.311Z - debug:  
+2024-08-11T05:49:13.342Z - debug:  
+2024-08-11T05:49:13.385Z - debug:  
+2024-08-11T05:49:13.385Z - debug:  
+2024-08-11T05:49:13.386Z - debug:  
+2024-08-11T05:49:13.422Z - debug:  
+2024-08-11T05:49:13.450Z - debug:  
+2024-08-11T05:49:20.993Z - debug:  
+2024-08-11T05:49:21.029Z - debug:  
+2024-08-11T05:49:24.440Z - debug:  
+2024-08-11T05:49:41.274Z - debug:  
+2024-08-11T05:49:59.553Z - debug:  
+2024-08-11T05:50:45.437Z - info: Pages built
+2024-08-11T05:50:46.480Z - info: Site data built
+2024-08-11T05:50:46.481Z - info: Website generation complete! Total build time: 121.936s
+2024-08-11T05:50:46.481Z - info: Build success!
+2024-08-11T05:53:38.443Z - info: The website has been deployed at: https://nus-tee3201.github.io/2024
+2024-08-11T15:32:41.907Z - info: Website generation (lazy) started at 11:32:34 pm
+2024-08-11T15:32:53.769Z - warn: ENOENT: no such file or directory, open 'C:\repos\nus-cs2103\cs2103-website-base\cache\gh-pages\https!github.com!nus-tee3201!2024.git\book\_markbind\variables.md'
+2024-08-11T15:32:53.771Z - warn: ENOENT: no such file or directory, open 'C:\repos\nus-cs2103\cs2103-website-base\cache\gh-pages\https!github.com!nus-tee3201!2024.git\_markbind\variables.md'
+2024-08-11T15:32:53.838Z - info: Building assets...
+2024-08-11T15:33:38.941Z - info: Assets built
+2024-08-11T15:33:38.942Z - info: Generating landing page...
+2024-08-11T15:33:40.444Z - info: Landing page built, other pages will be built as you navigate to them!
+2024-08-11T15:33:41.680Z - info: Site data built
+2024-08-11T15:33:41.681Z - info: Website generation (lazy) complete! Total build time: 67.458s
+2024-08-11T15:33:42.911Z - info: Serving "C:\repos\nus-cs2103\cs2103-website-base\_site" at http://127.0.0.1:52909
+2024-08-11T15:33:42.912Z - info: Press CTRL+C to stop ...
+2024-08-11T15:34:50.363Z - info: [11:34:50 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\cppToJava\misc\streams\resources.md
+2024-08-11T15:34:50.363Z - info: Synchronizing opened pages list before reload
+2024-08-11T15:34:50.364Z - info: Current opened pages, from most-to-least recent:
+2024-08-11T15:34:50.364Z - info: 1. index
+2024-08-11T15:34:51.371Z - info: Assets built
+2024-08-11T15:35:02.156Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\index as some of its dependencies were changed since the last visit
+2024-08-11T15:35:02.651Z - info: Site data built
+2024-08-11T15:35:02.652Z - info: Lazy website regeneration complete! Total build time: 0.496s
+2024-08-11T15:35:08.574Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\courseBriefings as some of its dependencies were changed since the last visit
+2024-08-11T15:35:08.856Z - info: Site data built
+2024-08-11T15:35:08.857Z - info: Lazy website regeneration complete! Total build time: 0.282s
+2024-08-11T15:35:12.460Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week2\topics as some of its dependencies were changed since the last visit
+2024-08-11T15:35:14.839Z - info: Site data built
+2024-08-11T15:35:14.839Z - info: Lazy website regeneration complete! Total build time: 2.379s
+2024-08-11T15:35:19.900Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week2\index as some of its dependencies were changed since the last visit
+2024-08-11T15:35:20.498Z - info: Site data built
+2024-08-11T15:35:20.498Z - info: Lazy website regeneration complete! Total build time: 0.598s
+2024-08-11T15:55:28.547Z - info: [11:55:28 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\about\acknowledgements.md
+2024-08-11T15:55:28.548Z - info: Synchronizing opened pages list before reload
+2024-08-11T15:55:28.548Z - info: Current opened pages, from most-to-least recent:
+2024-08-11T15:55:28.549Z - info: 1. schedule/week2/topics
+2024-08-11T15:55:29.561Z - info: No pages needed to be rebuilt

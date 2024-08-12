@@ -1,0 +1,24 @@
+2024-08-12T18:11:45.457Z - info: Website generation (lazy) started at 2:11:34 am
+2024-08-12T18:12:01.001Z - warn: ENOENT: no such file or directory, open 'C:\repos\nus-cs2103\cs2103-website-base\cache\gh-pages\https!github.com!nus-cs2103-AY2425S1!website.git\book\_markbind\variables.md'
+2024-08-12T18:12:01.007Z - warn: ENOENT: no such file or directory, open 'C:\repos\nus-cs2103\cs2103-website-base\cache\gh-pages\https!github.com!nus-cs2103-AY2425S1!website.git\_markbind\variables.md'
+2024-08-12T18:12:01.102Z - info: Building assets...
+2024-08-12T18:13:10.819Z - info: Assets built
+2024-08-12T18:13:10.820Z - info: Generating landing page...
+2024-08-12T18:13:13.102Z - info: Landing page built, other pages will be built as you navigate to them!
+2024-08-12T18:13:14.322Z - info: Site data built
+2024-08-12T18:13:14.323Z - info: Website generation (lazy) complete! Total build time: 99.338s
+2024-08-12T18:13:14.377Z - info: Serving "C:\repos\nus-cs2103\cs2103-website-base\_site" at http://127.0.0.1:8080
+2024-08-12T18:13:14.378Z - info: Press CTRL+C to stop ...
+2024-08-12T18:15:05.770Z - info: [2:15:05 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\schedule\week1\admin-tic2002-fragment.md
+2024-08-12T18:15:05.771Z - info: Synchronizing opened pages list before reload
+2024-08-12T18:15:05.771Z - info: Current opened pages, from most-to-least recent:
+2024-08-12T18:15:05.772Z - info: 1. index
+2024-08-12T18:15:06.782Z - info: Assets built
+2024-08-12T18:15:15.485Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\timeline as some of its dependencies were changed since the last visit
+2024-08-12T18:15:19.874Z - info: Site data built
+2024-08-12T18:15:19.874Z - info: Lazy website regeneration complete! Total build time: 4.389s
+2024-08-12T18:16:23.571Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week1\admin as some of its dependencies were changed since the last visit
+2024-08-12T18:16:24.334Z - info: Site data built
+2024-08-12T18:16:24.334Z - info: Lazy website regeneration complete! Total build time: 0.764s
+2024-08-12T18:18:08.763Z - info: Website generation started at 2:17:54 am
+2024-08-12T18:18:17.105Z - info: Building assets...
