@@ -29,6 +29,6 @@ with(this){return _c('ul',[_c('li',[_c('p',[_v("["),_c('a',{attrs:{"href":"/webs
 with(this){return _c('div',{staticClass:"col-sm"},[_c('p',[_c('span',[_c('strong',[_c('span',[_c('span',{staticClass:"glyphicon glyphicon-check",attrs:{"aria-hidden":"true"}})])])]),_v(" Tasks Summary:")]),_v(" "),_c('div',[_c('ol',[_c('li',[_v("Install Sourcetree "),_c('span',{staticClass:"badge bg-danger  font-weight-normal"},[_c('span',[_c('span',{staticClass:"far fa-clock",attrs:{"aria-hidden":"true"}}),_v(" before the lecture")])])]),_v(" "),_c('li',[_v("Submit weekly exercises")]),_v(" "),_c('li',[_v("Submit post-lecture quiz")])])])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.5.3")]),_v(", generated on Tue, 17 Sept 2024, 20:55:54 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.5.3")]),_v(", generated on Sun, 29 Sept 2024, 1:10:43 GMT+8]")])])])}
 }];
   
