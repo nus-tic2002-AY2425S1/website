@@ -68,6 +68,6 @@ with(this){return _c('div',[_c('p',[_v("The course have been great!")])])}
 with(this){return _c('div',[_c('p',[_v("I really like the pacing and workload so far, the explanations in lectures are also good for laying a strong foundation in java and OOP. I particularly enjoy reading the textbook on the course website. It was informative and very easy to understand. Thank you for the effort you've put in for this mod!")])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.5.3")]),_v(", generated on Sun, 29 Sept 2024, 1:10:43 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.5.3")]),_v(", generated on Sun, 29 Sept 2024, 23:21:29 GMT+8]")])])])}
 }];
   
