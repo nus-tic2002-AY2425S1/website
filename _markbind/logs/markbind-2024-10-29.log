@@ -194,3 +194,40 @@
 2024-10-29T13:59:23.603Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2425S1!website.git/book/_markbind/variables.md'
 2024-10-29T13:59:23.603Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-cs2103-AY2425S1!website.git/_markbind/variables.md'
 2024-10-29T13:59:23.623Z - info: Building assets...
+2024-10-29T13:59:24.981Z - info: Assets built
+2024-10-29T13:59:24.981Z - info: Generating pages...
+2024-10-29T13:59:30.006Z - debug:  
+2024-10-29T13:59:30.006Z - debug:  
+2024-10-29T13:59:30.007Z - debug:  
+2024-10-29T13:59:30.008Z - debug:  
+2024-10-29T13:59:30.008Z - debug:  
+2024-10-29T13:59:30.008Z - debug:  
+2024-10-29T13:59:30.036Z - debug:  
+2024-10-29T13:59:30.460Z - debug:  
+2024-10-29T13:59:30.460Z - debug:  
+2024-10-29T13:59:30.460Z - debug: 2024-10-29 21:59:27.809 java[89046:8559042] +[IMKClient subclass]: chose IMKClient_Legacy
+2024-10-29 21:59:27.809 java[89046:8559042] +[IMKInputSession subclass]: chose IMKInputSession_Legacy
+
+2024-10-29T13:59:30.460Z - debug:  
+2024-10-29T13:59:30.460Z - debug:  
+2024-10-29T13:59:30.460Z - debug:  
+2024-10-29T13:59:30.460Z - debug:  
+2024-10-29T13:59:30.460Z - debug:  
+2024-10-29T13:59:31.765Z - debug: 2024-10-29 21:59:31.388 java[89085:8559848] +[IMKClient subclass]: chose IMKClient_Legacy
+2024-10-29 21:59:31.388 java[89085:8559848] +[IMKInputSession subclass]: chose IMKInputSession_Legacy
+
+2024-10-29T13:59:38.409Z - debug: 2024-10-29 21:59:38.057 java[89174:8560417] +[IMKClient subclass]: chose IMKClient_Legacy
+2024-10-29 21:59:38.057 java[89174:8560417] +[IMKInputSession subclass]: chose IMKInputSession_Legacy
+
+2024-10-29T13:59:42.160Z - debug: 2024-10-29 21:59:41.786 java[89186:8560586] +[IMKClient subclass]: chose IMKClient_Legacy
+2024-10-29 21:59:41.786 java[89186:8560586] +[IMKInputSession subclass]: chose IMKInputSession_Legacy
+
+2024-10-29T14:00:01.460Z - info: Pages built
+2024-10-29T14:00:01.526Z - info: Site data built
+2024-10-29T14:00:01.526Z - info: Website generation complete! Total build time: 38.995s
+2024-10-29T14:00:01.526Z - info: Build success!
+2024-10-29T14:00:20.540Z - info: The website has been deployed at: https://nus-tic2002-ay2425s1.github.io/website
+2024-10-29T15:33:47.482Z - info: Website generation started at 23:33:46
+2024-10-29T15:33:47.784Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-tic2002-AY2425S1!website.git/book/_markbind/variables.md'
+2024-10-29T15:33:47.785Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-tic2002-AY2425S1!website.git/_markbind/variables.md'
+2024-10-29T15:33:47.804Z - info: Building assets...
