@@ -231,3 +231,36 @@
 2024-10-29T15:33:47.784Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-tic2002-AY2425S1!website.git/book/_markbind/variables.md'
 2024-10-29T15:33:47.785Z - warn: ENOENT: no such file or directory, open '/Users/damithch/Repos/nus-cs2103/cs2103-website-base/node_modules/.cache/gh-pages/https!github.com!nus-tic2002-AY2425S1!website.git/_markbind/variables.md'
 2024-10-29T15:33:47.804Z - info: Building assets...
+2024-10-29T15:33:49.062Z - info: Assets built
+2024-10-29T15:33:49.063Z - info: Generating pages...
+2024-10-29T15:33:53.697Z - debug:  
+2024-10-29T15:33:53.697Z - debug:  
+2024-10-29T15:33:53.698Z - debug:  
+2024-10-29T15:33:53.698Z - debug:  
+2024-10-29T15:33:54.131Z - debug:  
+2024-10-29T15:33:54.131Z - debug:  
+2024-10-29T15:33:54.131Z - debug:  
+2024-10-29T15:33:54.131Z - debug:  
+2024-10-29T15:33:54.131Z - debug:  
+2024-10-29T15:33:54.131Z - debug:  
+2024-10-29T15:33:54.131Z - debug:  
+2024-10-29T15:33:54.131Z - debug:  
+2024-10-29T15:33:54.131Z - debug: 2024-10-29 23:33:52.074 java[99992:8728978] +[IMKClient subclass]: chose IMKClient_Legacy
+2024-10-29 23:33:52.074 java[99992:8728978] +[IMKInputSession subclass]: chose IMKInputSession_Legacy
+
+2024-10-29T15:33:54.267Z - debug:  
+2024-10-29T15:33:54.358Z - debug:  
+2024-10-29T15:33:55.847Z - debug: 2024-10-29 23:33:55.559 java[184:8729868] +[IMKClient subclass]: chose IMKClient_Legacy
+2024-10-29 23:33:55.559 java[184:8729868] +[IMKInputSession subclass]: chose IMKInputSession_Legacy
+
+2024-10-29T15:34:02.790Z - debug: 2024-10-29 23:34:02.441 java[205:8730197] +[IMKClient subclass]: chose IMKClient_Legacy
+2024-10-29 23:34:02.441 java[205:8730197] +[IMKInputSession subclass]: chose IMKInputSession_Legacy
+
+2024-10-29T15:34:06.649Z - debug: 2024-10-29 23:34:06.297 java[229:8730388] +[IMKClient subclass]: chose IMKClient_Legacy
+2024-10-29 23:34:06.297 java[229:8730388] +[IMKInputSession subclass]: chose IMKInputSession_Legacy
+
+2024-10-29T15:34:25.845Z - info: Pages built
+2024-10-29T15:34:25.917Z - info: Site data built
+2024-10-29T15:34:25.918Z - info: Website generation complete! Total build time: 39.326s
+2024-10-29T15:34:25.918Z - info: Build success!
+2024-10-29T15:34:44.808Z - info: The website has been deployed at: https://nus-tic2002-ay2425s1.github.io/website
